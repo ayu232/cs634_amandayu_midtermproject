@@ -1,0 +1,41 @@
+Itemset,Support
+Conditioner,0.5
+Dish Soap,0.5
+Hand Sanitizer,0.5
+Laundry Detergent,0.5
+Paper Towels,0.5
+Shampoo,0.5
+Soap,0.5
+Tissues,0.5
+Toothbrush,0.5
+Toothpaste,0.5
+"Conditioner, Laundry Detergent",0.3
+"Conditioner, Shampoo",0.4
+"Conditioner, Soap",0.4
+"Conditioner, Toothbrush",0.3
+"Dish Soap, Laundry Detergent",0.4
+"Dish Soap, Paper Towels",0.4
+"Dish Soap, Soap",0.3
+"Dish Soap, Tissues",0.3
+"Hand Sanitizer, Paper Towels",0.3
+"Hand Sanitizer, Tissues",0.4
+"Hand Sanitizer, Toothbrush",0.3
+"Hand Sanitizer, Toothpaste",0.4
+"Laundry Detergent, Paper Towels",0.3
+"Laundry Detergent, Soap",0.4
+"Paper Towels, Tissues",0.4
+"Shampoo, Soap",0.3
+"Shampoo, Toothbrush",0.4
+"Shampoo, Toothpaste",0.3
+"Tissues, Toothpaste",0.3
+"Toothbrush, Toothpaste",0.4
+"Conditioner, Laundry Detergent, Soap",0.3
+"Conditioner, Shampoo, Soap",0.3
+"Conditioner, Shampoo, Toothbrush",0.3
+"Dish Soap, Laundry Detergent, Paper Towels",0.3
+"Dish Soap, Laundry Detergent, Soap",0.3
+"Dish Soap, Paper Towels, Tissues",0.3
+"Hand Sanitizer, Paper Towels, Tissues",0.3
+"Hand Sanitizer, Tissues, Toothpaste",0.3
+"Hand Sanitizer, Toothbrush, Toothpaste",0.3
+"Shampoo, Toothbrush, Toothpaste",0.3

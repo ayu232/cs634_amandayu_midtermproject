@@ -1,0 +1,411 @@
+Antecedent,Consequent,Support,Confidence
+Effective Java (2nd Edition),A Beginner’s Guide,0.3,0.6
+A Beginner’s Guide,Effective Java (2nd Edition),0.3,0.6
+HTML and CSS: Design and Build Websites,A Beginner’s Guide,0.4,0.8
+A Beginner’s Guide,HTML and CSS: Design and Build Websites,0.4,0.8
+Java For Dummies,A Beginner’s Guide,0.3,0.6
+A Beginner’s Guide,Java For Dummies,0.3,0.6
+Java: The Complete Reference,A Beginner’s Guide,0.4,0.8
+A Beginner’s Guide,Java: The Complete Reference,0.4,0.8
+Android Programming: The Big Nerd Ranch,Beginning Programming with Java,0.3,0.6
+Beginning Programming with Java,Android Programming: The Big Nerd Ranch,0.3,0.6
+Android Programming: The Big Nerd Ranch,Head First Java 2nd Edition,0.4,0.8
+Head First Java 2nd Edition,Android Programming: The Big Nerd Ranch,0.4,0.8
+Android Programming: The Big Nerd Ranch,Java For Dummies,0.4,0.8
+Java For Dummies,Android Programming: The Big Nerd Ranch,0.4,0.8
+Java: The Complete Reference,Android Programming: The Big Nerd Ranch,0.3,0.6
+Android Programming: The Big Nerd Ranch,Java: The Complete Reference,0.3,0.6
+C++ Programming in Easy Steps,Beginning Programming with Java,0.3,0.6
+Beginning Programming with Java,C++ Programming in Easy Steps,0.3,0.6
+Beginning Programming with Java,Head First Java 2nd Edition,0.4,0.8
+Head First Java 2nd Edition,Beginning Programming with Java,0.4,0.8
+Java 8 Pocket Guide,Beginning Programming with Java,0.4,0.8
+Beginning Programming with Java,Java 8 Pocket Guide,0.4,0.8
+C++ Programming in Easy Steps,Effective Java (2nd Edition),0.4,0.8
+Effective Java (2nd Edition),C++ Programming in Easy Steps,0.4,0.8
+C++ Programming in Easy Steps,HTML and CSS: Design and Build Websites,0.3,0.6
+HTML and CSS: Design and Build Websites,C++ Programming in Easy Steps,0.3,0.6
+Java 8 Pocket Guide,C++ Programming in Easy Steps,0.4,0.8
+C++ Programming in Easy Steps,Java 8 Pocket Guide,0.4,0.8
+HTML and CSS: Design and Build Websites,Effective Java (2nd Edition),0.4,0.8
+Effective Java (2nd Edition),HTML and CSS: Design and Build Websites,0.4,0.8
+Java 8 Pocket Guide,Effective Java (2nd Edition),0.3,0.6
+Effective Java (2nd Edition),Java 8 Pocket Guide,0.3,0.6
+Java: The Complete Reference,HTML and CSS: Design and Build Websites,0.3,0.6
+HTML and CSS: Design and Build Websites,Java: The Complete Reference,0.3,0.6
+Java 8 Pocket Guide,Head First Java 2nd Edition,0.3,0.6
+Head First Java 2nd Edition,Java 8 Pocket Guide,0.3,0.6
+Head First Java 2nd Edition,Java For Dummies,0.3,0.6
+Java For Dummies,Head First Java 2nd Edition,0.3,0.6
+Java: The Complete Reference,Java For Dummies,0.4,0.8
+Java For Dummies,Java: The Complete Reference,0.4,0.8
+"Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites",A Beginner’s Guide,0.2,1.0
+"A Beginner’s Guide, Android Programming: The Big Nerd Ranch",HTML and CSS: Design and Build Websites,0.2,1.0
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites",Android Programming: The Big Nerd Ranch,0.2,0.5
+"Android Programming: The Big Nerd Ranch, Java For Dummies",A Beginner’s Guide,0.2,0.5
+"A Beginner’s Guide, Android Programming: The Big Nerd Ranch",Java For Dummies,0.2,1.0
+"A Beginner’s Guide, Java For Dummies",Android Programming: The Big Nerd Ranch,0.2,0.667
+"Android Programming: The Big Nerd Ranch, Java: The Complete Reference",A Beginner’s Guide,0.2,0.667
+"A Beginner’s Guide, Java: The Complete Reference",Android Programming: The Big Nerd Ranch,0.2,0.5
+"A Beginner’s Guide, Android Programming: The Big Nerd Ranch",Java: The Complete Reference,0.2,1.0
+"Beginning Programming with Java, HTML and CSS: Design and Build Websites",A Beginner’s Guide,0.2,1.0
+"A Beginner’s Guide, Beginning Programming with Java",HTML and CSS: Design and Build Websites,0.2,1.0
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites",Beginning Programming with Java,0.2,0.5
+"Beginning Programming with Java, Head First Java 2nd Edition",A Beginner’s Guide,0.2,0.5
+"A Beginner’s Guide, Beginning Programming with Java",Head First Java 2nd Edition,0.2,1.0
+"A Beginner’s Guide, Head First Java 2nd Edition",Beginning Programming with Java,0.2,1.0
+"C++ Programming in Easy Steps, Effective Java (2nd Edition)",A Beginner’s Guide,0.2,0.5
+"A Beginner’s Guide, C++ Programming in Easy Steps",Effective Java (2nd Edition),0.2,1.0
+"A Beginner’s Guide, Effective Java (2nd Edition)",C++ Programming in Easy Steps,0.2,0.667
+"C++ Programming in Easy Steps, HTML and CSS: Design and Build Websites",A Beginner’s Guide,0.2,0.667
+"A Beginner’s Guide, C++ Programming in Easy Steps",HTML and CSS: Design and Build Websites,0.2,1.0
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites",C++ Programming in Easy Steps,0.2,0.5
+HTML and CSS: Design and Build Websites,"A Beginner’s Guide, Effective Java (2nd Edition)",0.3,0.6
+Effective Java (2nd Edition),"A Beginner’s Guide, HTML and CSS: Design and Build Websites",0.3,0.6
+A Beginner’s Guide,"Effective Java (2nd Edition), HTML and CSS: Design and Build Websites",0.3,0.6
+"Effective Java (2nd Edition), HTML and CSS: Design and Build Websites",A Beginner’s Guide,0.3,0.75
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites",Effective Java (2nd Edition),0.3,0.75
+"A Beginner’s Guide, Effective Java (2nd Edition)",HTML and CSS: Design and Build Websites,0.3,1.0
+"Effective Java (2nd Edition), Java: The Complete Reference",A Beginner’s Guide,0.2,1.0
+"A Beginner’s Guide, Java: The Complete Reference",Effective Java (2nd Edition),0.2,0.5
+"A Beginner’s Guide, Effective Java (2nd Edition)",Java: The Complete Reference,0.2,0.667
+"HTML and CSS: Design and Build Websites, Head First Java 2nd Edition",A Beginner’s Guide,0.2,1.0
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites",Head First Java 2nd Edition,0.2,0.5
+"A Beginner’s Guide, Head First Java 2nd Edition",HTML and CSS: Design and Build Websites,0.2,1.0
+"HTML and CSS: Design and Build Websites, Java For Dummies",A Beginner’s Guide,0.2,1.0
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites",Java For Dummies,0.2,0.5
+"A Beginner’s Guide, Java For Dummies",HTML and CSS: Design and Build Websites,0.2,0.667
+Java: The Complete Reference,"A Beginner’s Guide, HTML and CSS: Design and Build Websites",0.3,0.6
+HTML and CSS: Design and Build Websites,"A Beginner’s Guide, Java: The Complete Reference",0.3,0.6
+A Beginner’s Guide,"HTML and CSS: Design and Build Websites, Java: The Complete Reference",0.3,0.6
+"HTML and CSS: Design and Build Websites, Java: The Complete Reference",A Beginner’s Guide,0.3,1.0
+"A Beginner’s Guide, Java: The Complete Reference",HTML and CSS: Design and Build Websites,0.3,0.75
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites",Java: The Complete Reference,0.3,0.75
+Java: The Complete Reference,"A Beginner’s Guide, Java For Dummies",0.3,0.6
+Java For Dummies,"A Beginner’s Guide, Java: The Complete Reference",0.3,0.6
+A Beginner’s Guide,"Java For Dummies, Java: The Complete Reference",0.3,0.6
+"Java For Dummies, Java: The Complete Reference",A Beginner’s Guide,0.3,0.75
+"A Beginner’s Guide, Java: The Complete Reference",Java For Dummies,0.3,0.75
+"A Beginner’s Guide, Java For Dummies",Java: The Complete Reference,0.3,1.0
+Android Programming: The Big Nerd Ranch,"Beginning Programming with Java, Head First Java 2nd Edition",0.3,0.6
+Beginning Programming with Java,"Android Programming: The Big Nerd Ranch, Head First Java 2nd Edition",0.3,0.6
+Head First Java 2nd Edition,"Android Programming: The Big Nerd Ranch, Beginning Programming with Java",0.3,0.6
+"Android Programming: The Big Nerd Ranch, Beginning Programming with Java",Head First Java 2nd Edition,0.3,1.0
+"Android Programming: The Big Nerd Ranch, Head First Java 2nd Edition",Beginning Programming with Java,0.3,0.75
+"Beginning Programming with Java, Head First Java 2nd Edition",Android Programming: The Big Nerd Ranch,0.3,0.75
+"Android Programming: The Big Nerd Ranch, Java 8 Pocket Guide",Beginning Programming with Java,0.2,1.0
+"Beginning Programming with Java, Java 8 Pocket Guide",Android Programming: The Big Nerd Ranch,0.2,0.5
+"Android Programming: The Big Nerd Ranch, Beginning Programming with Java",Java 8 Pocket Guide,0.2,0.667
+"Android Programming: The Big Nerd Ranch, Beginning Programming with Java",Java For Dummies,0.2,0.667
+"Android Programming: The Big Nerd Ranch, Java For Dummies",Beginning Programming with Java,0.2,0.5
+"Beginning Programming with Java, Java For Dummies",Android Programming: The Big Nerd Ranch,0.2,1.0
+"Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites",Java For Dummies,0.2,1.0
+"Android Programming: The Big Nerd Ranch, Java For Dummies",HTML and CSS: Design and Build Websites,0.2,0.5
+"HTML and CSS: Design and Build Websites, Java For Dummies",Android Programming: The Big Nerd Ranch,0.2,1.0
+"Android Programming: The Big Nerd Ranch, Java: The Complete Reference",HTML and CSS: Design and Build Websites,0.2,0.667
+"HTML and CSS: Design and Build Websites, Java: The Complete Reference",Android Programming: The Big Nerd Ranch,0.2,0.667
+"Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites",Java: The Complete Reference,0.2,1.0
+"Android Programming: The Big Nerd Ranch, Java 8 Pocket Guide",Head First Java 2nd Edition,0.2,1.0
+"Head First Java 2nd Edition, Java 8 Pocket Guide",Android Programming: The Big Nerd Ranch,0.2,0.667
+"Android Programming: The Big Nerd Ranch, Head First Java 2nd Edition",Java 8 Pocket Guide,0.2,0.5
+Android Programming: The Big Nerd Ranch,"Head First Java 2nd Edition, Java For Dummies",0.3,0.6
+Head First Java 2nd Edition,"Android Programming: The Big Nerd Ranch, Java For Dummies",0.3,0.6
+Java For Dummies,"Android Programming: The Big Nerd Ranch, Head First Java 2nd Edition",0.3,0.6
+"Android Programming: The Big Nerd Ranch, Head First Java 2nd Edition",Java For Dummies,0.3,0.75
+"Android Programming: The Big Nerd Ranch, Java For Dummies",Head First Java 2nd Edition,0.3,0.75
+"Head First Java 2nd Edition, Java For Dummies",Android Programming: The Big Nerd Ranch,0.3,1.0
+"Android Programming: The Big Nerd Ranch, Java: The Complete Reference",Head First Java 2nd Edition,0.2,0.667
+"Head First Java 2nd Edition, Java: The Complete Reference",Android Programming: The Big Nerd Ranch,0.2,1.0
+"Android Programming: The Big Nerd Ranch, Head First Java 2nd Edition",Java: The Complete Reference,0.2,0.5
+Java: The Complete Reference,"Android Programming: The Big Nerd Ranch, Java For Dummies",0.3,0.6
+Android Programming: The Big Nerd Ranch,"Java For Dummies, Java: The Complete Reference",0.3,0.6
+Java For Dummies,"Android Programming: The Big Nerd Ranch, Java: The Complete Reference",0.3,0.6
+"Android Programming: The Big Nerd Ranch, Java: The Complete Reference",Java For Dummies,0.3,1.0
+"Java For Dummies, Java: The Complete Reference",Android Programming: The Big Nerd Ranch,0.3,0.75
+"Android Programming: The Big Nerd Ranch, Java For Dummies",Java: The Complete Reference,0.3,0.75
+"Beginning Programming with Java, C++ Programming in Easy Steps",Effective Java (2nd Edition),0.2,0.667
+"C++ Programming in Easy Steps, Effective Java (2nd Edition)",Beginning Programming with Java,0.2,0.5
+"Beginning Programming with Java, Effective Java (2nd Edition)",C++ Programming in Easy Steps,0.2,1.0
+"Beginning Programming with Java, C++ Programming in Easy Steps",Head First Java 2nd Edition,0.2,0.667
+"C++ Programming in Easy Steps, Head First Java 2nd Edition",Beginning Programming with Java,0.2,1.0
+"Beginning Programming with Java, Head First Java 2nd Edition",C++ Programming in Easy Steps,0.2,0.5
+Java 8 Pocket Guide,"Beginning Programming with Java, C++ Programming in Easy Steps",0.3,0.6
+C++ Programming in Easy Steps,"Beginning Programming with Java, Java 8 Pocket Guide",0.3,0.6
+Beginning Programming with Java,"C++ Programming in Easy Steps, Java 8 Pocket Guide",0.3,0.6
+"C++ Programming in Easy Steps, Java 8 Pocket Guide",Beginning Programming with Java,0.3,0.75
+"Beginning Programming with Java, Java 8 Pocket Guide",C++ Programming in Easy Steps,0.3,0.75
+"Beginning Programming with Java, C++ Programming in Easy Steps",Java 8 Pocket Guide,0.3,1.0
+"Beginning Programming with Java, Effective Java (2nd Edition)",Head First Java 2nd Edition,0.2,1.0
+"Beginning Programming with Java, Head First Java 2nd Edition",Effective Java (2nd Edition),0.2,0.5
+"Effective Java (2nd Edition), Head First Java 2nd Edition",Beginning Programming with Java,0.2,1.0
+"Beginning Programming with Java, Java 8 Pocket Guide",Effective Java (2nd Edition),0.2,0.5
+"Effective Java (2nd Edition), Java 8 Pocket Guide",Beginning Programming with Java,0.2,0.667
+"Beginning Programming with Java, Effective Java (2nd Edition)",Java 8 Pocket Guide,0.2,1.0
+"Beginning Programming with Java, HTML and CSS: Design and Build Websites",Head First Java 2nd Edition,0.2,1.0
+"Beginning Programming with Java, Head First Java 2nd Edition",HTML and CSS: Design and Build Websites,0.2,0.5
+"HTML and CSS: Design and Build Websites, Head First Java 2nd Edition",Beginning Programming with Java,0.2,1.0
+Java 8 Pocket Guide,"Beginning Programming with Java, Head First Java 2nd Edition",0.3,0.6
+Beginning Programming with Java,"Head First Java 2nd Edition, Java 8 Pocket Guide",0.3,0.6
+Head First Java 2nd Edition,"Beginning Programming with Java, Java 8 Pocket Guide",0.3,0.6
+"Beginning Programming with Java, Java 8 Pocket Guide",Head First Java 2nd Edition,0.3,0.75
+"Head First Java 2nd Edition, Java 8 Pocket Guide",Beginning Programming with Java,0.3,1.0
+"Beginning Programming with Java, Head First Java 2nd Edition",Java 8 Pocket Guide,0.3,0.75
+"Beginning Programming with Java, Head First Java 2nd Edition",Java For Dummies,0.2,0.5
+"Beginning Programming with Java, Java For Dummies",Head First Java 2nd Edition,0.2,1.0
+"Head First Java 2nd Edition, Java For Dummies",Beginning Programming with Java,0.2,0.667
+HTML and CSS: Design and Build Websites,"C++ Programming in Easy Steps, Effective Java (2nd Edition)",0.3,0.6
+C++ Programming in Easy Steps,"Effective Java (2nd Edition), HTML and CSS: Design and Build Websites",0.3,0.6
+Effective Java (2nd Edition),"C++ Programming in Easy Steps, HTML and CSS: Design and Build Websites",0.3,0.6
+"C++ Programming in Easy Steps, HTML and CSS: Design and Build Websites",Effective Java (2nd Edition),0.3,1.0
+"Effective Java (2nd Edition), HTML and CSS: Design and Build Websites",C++ Programming in Easy Steps,0.3,0.75
+"C++ Programming in Easy Steps, Effective Java (2nd Edition)",HTML and CSS: Design and Build Websites,0.3,0.75
+"C++ Programming in Easy Steps, Effective Java (2nd Edition)",Head First Java 2nd Edition,0.2,0.5
+"C++ Programming in Easy Steps, Head First Java 2nd Edition",Effective Java (2nd Edition),0.2,1.0
+"Effective Java (2nd Edition), Head First Java 2nd Edition",C++ Programming in Easy Steps,0.2,1.0
+Java 8 Pocket Guide,"C++ Programming in Easy Steps, Effective Java (2nd Edition)",0.3,0.6
+C++ Programming in Easy Steps,"Effective Java (2nd Edition), Java 8 Pocket Guide",0.3,0.6
+Effective Java (2nd Edition),"C++ Programming in Easy Steps, Java 8 Pocket Guide",0.3,0.6
+"C++ Programming in Easy Steps, Java 8 Pocket Guide",Effective Java (2nd Edition),0.3,0.75
+"Effective Java (2nd Edition), Java 8 Pocket Guide",C++ Programming in Easy Steps,0.3,1.0
+"C++ Programming in Easy Steps, Effective Java (2nd Edition)",Java 8 Pocket Guide,0.3,0.75
+"C++ Programming in Easy Steps, Java 8 Pocket Guide",HTML and CSS: Design and Build Websites,0.2,0.5
+"HTML and CSS: Design and Build Websites, Java 8 Pocket Guide",C++ Programming in Easy Steps,0.2,1.0
+"C++ Programming in Easy Steps, HTML and CSS: Design and Build Websites",Java 8 Pocket Guide,0.2,0.667
+"C++ Programming in Easy Steps, Java 8 Pocket Guide",Head First Java 2nd Edition,0.2,0.5
+"Head First Java 2nd Edition, Java 8 Pocket Guide",C++ Programming in Easy Steps,0.2,0.667
+"C++ Programming in Easy Steps, Head First Java 2nd Edition",Java 8 Pocket Guide,0.2,1.0
+"HTML and CSS: Design and Build Websites, Java 8 Pocket Guide",Effective Java (2nd Edition),0.2,1.0
+"Effective Java (2nd Edition), HTML and CSS: Design and Build Websites",Java 8 Pocket Guide,0.2,0.5
+"Effective Java (2nd Edition), Java 8 Pocket Guide",HTML and CSS: Design and Build Websites,0.2,0.667
+"HTML and CSS: Design and Build Websites, Java: The Complete Reference",Effective Java (2nd Edition),0.2,0.667
+"Effective Java (2nd Edition), HTML and CSS: Design and Build Websites",Java: The Complete Reference,0.2,0.5
+"Effective Java (2nd Edition), Java: The Complete Reference",HTML and CSS: Design and Build Websites,0.2,1.0
+"Effective Java (2nd Edition), Java 8 Pocket Guide",Head First Java 2nd Edition,0.2,0.667
+"Head First Java 2nd Edition, Java 8 Pocket Guide",Effective Java (2nd Edition),0.2,0.667
+"Effective Java (2nd Edition), Head First Java 2nd Edition",Java 8 Pocket Guide,0.2,1.0
+"HTML and CSS: Design and Build Websites, Java: The Complete Reference",Java For Dummies,0.2,0.667
+"Java For Dummies, Java: The Complete Reference",HTML and CSS: Design and Build Websites,0.2,0.5
+"HTML and CSS: Design and Build Websites, Java For Dummies",Java: The Complete Reference,0.2,1.0
+"Head First Java 2nd Edition, Java: The Complete Reference",Java For Dummies,0.2,1.0
+"Java For Dummies, Java: The Complete Reference",Head First Java 2nd Edition,0.2,0.5
+"Head First Java 2nd Edition, Java For Dummies",Java: The Complete Reference,0.2,0.667
+"Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites","A Beginner’s Guide, Java For Dummies",0.2,1.0
+"Android Programming: The Big Nerd Ranch, Java For Dummies","A Beginner’s Guide, HTML and CSS: Design and Build Websites",0.2,0.5
+"A Beginner’s Guide, Android Programming: The Big Nerd Ranch","HTML and CSS: Design and Build Websites, Java For Dummies",0.2,1.0
+"HTML and CSS: Design and Build Websites, Java For Dummies","A Beginner’s Guide, Android Programming: The Big Nerd Ranch",0.2,1.0
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites","Android Programming: The Big Nerd Ranch, Java For Dummies",0.2,0.5
+"A Beginner’s Guide, Java For Dummies","Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites",0.2,0.667
+"Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites, Java For Dummies",A Beginner’s Guide,0.2,1.0
+"A Beginner’s Guide, Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites",Java For Dummies,0.2,1.0
+"A Beginner’s Guide, Android Programming: The Big Nerd Ranch, Java For Dummies",HTML and CSS: Design and Build Websites,0.2,1.0
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites, Java For Dummies",Android Programming: The Big Nerd Ranch,0.2,1.0
+"Android Programming: The Big Nerd Ranch, Java: The Complete Reference","A Beginner’s Guide, HTML and CSS: Design and Build Websites",0.2,0.667
+"HTML and CSS: Design and Build Websites, Java: The Complete Reference","A Beginner’s Guide, Android Programming: The Big Nerd Ranch",0.2,0.667
+"A Beginner’s Guide, Java: The Complete Reference","Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites",0.2,0.5
+"Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites","A Beginner’s Guide, Java: The Complete Reference",0.2,1.0
+"A Beginner’s Guide, Android Programming: The Big Nerd Ranch","HTML and CSS: Design and Build Websites, Java: The Complete Reference",0.2,1.0
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites","Android Programming: The Big Nerd Ranch, Java: The Complete Reference",0.2,0.5
+"Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites, Java: The Complete Reference",A Beginner’s Guide,0.2,1.0
+"A Beginner’s Guide, Android Programming: The Big Nerd Ranch, Java: The Complete Reference",HTML and CSS: Design and Build Websites,0.2,1.0
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites, Java: The Complete Reference",Android Programming: The Big Nerd Ranch,0.2,0.667
+"A Beginner’s Guide, Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites",Java: The Complete Reference,0.2,1.0
+"Android Programming: The Big Nerd Ranch, Java: The Complete Reference","A Beginner’s Guide, Java For Dummies",0.2,0.667
+"Java For Dummies, Java: The Complete Reference","A Beginner’s Guide, Android Programming: The Big Nerd Ranch",0.2,0.5
+"A Beginner’s Guide, Java: The Complete Reference","Android Programming: The Big Nerd Ranch, Java For Dummies",0.2,0.5
+"Android Programming: The Big Nerd Ranch, Java For Dummies","A Beginner’s Guide, Java: The Complete Reference",0.2,0.5
+"A Beginner’s Guide, Android Programming: The Big Nerd Ranch","Java For Dummies, Java: The Complete Reference",0.2,1.0
+"A Beginner’s Guide, Java For Dummies","Android Programming: The Big Nerd Ranch, Java: The Complete Reference",0.2,0.667
+"Android Programming: The Big Nerd Ranch, Java For Dummies, Java: The Complete Reference",A Beginner’s Guide,0.2,0.667
+"A Beginner’s Guide, Android Programming: The Big Nerd Ranch, Java: The Complete Reference",Java For Dummies,0.2,1.0
+"A Beginner’s Guide, Java For Dummies, Java: The Complete Reference",Android Programming: The Big Nerd Ranch,0.2,0.667
+"A Beginner’s Guide, Android Programming: The Big Nerd Ranch, Java For Dummies",Java: The Complete Reference,0.2,1.0
+"Beginning Programming with Java, HTML and CSS: Design and Build Websites","A Beginner’s Guide, Head First Java 2nd Edition",0.2,1.0
+"Beginning Programming with Java, Head First Java 2nd Edition","A Beginner’s Guide, HTML and CSS: Design and Build Websites",0.2,0.5
+"A Beginner’s Guide, Beginning Programming with Java","HTML and CSS: Design and Build Websites, Head First Java 2nd Edition",0.2,1.0
+"HTML and CSS: Design and Build Websites, Head First Java 2nd Edition","A Beginner’s Guide, Beginning Programming with Java",0.2,1.0
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites","Beginning Programming with Java, Head First Java 2nd Edition",0.2,0.5
+"A Beginner’s Guide, Head First Java 2nd Edition","Beginning Programming with Java, HTML and CSS: Design and Build Websites",0.2,1.0
+"Beginning Programming with Java, HTML and CSS: Design and Build Websites, Head First Java 2nd Edition",A Beginner’s Guide,0.2,1.0
+"A Beginner’s Guide, Beginning Programming with Java, HTML and CSS: Design and Build Websites",Head First Java 2nd Edition,0.2,1.0
+"A Beginner’s Guide, Beginning Programming with Java, Head First Java 2nd Edition",HTML and CSS: Design and Build Websites,0.2,1.0
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites, Head First Java 2nd Edition",Beginning Programming with Java,0.2,1.0
+"C++ Programming in Easy Steps, HTML and CSS: Design and Build Websites","A Beginner’s Guide, Effective Java (2nd Edition)",0.2,0.667
+"Effective Java (2nd Edition), HTML and CSS: Design and Build Websites","A Beginner’s Guide, C++ Programming in Easy Steps",0.2,0.5
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites","C++ Programming in Easy Steps, Effective Java (2nd Edition)",0.2,0.5
+"C++ Programming in Easy Steps, Effective Java (2nd Edition)","A Beginner’s Guide, HTML and CSS: Design and Build Websites",0.2,0.5
+"A Beginner’s Guide, C++ Programming in Easy Steps","Effective Java (2nd Edition), HTML and CSS: Design and Build Websites",0.2,1.0
+"A Beginner’s Guide, Effective Java (2nd Edition)","C++ Programming in Easy Steps, HTML and CSS: Design and Build Websites",0.2,0.667
+"C++ Programming in Easy Steps, Effective Java (2nd Edition), HTML and CSS: Design and Build Websites",A Beginner’s Guide,0.2,0.667
+"A Beginner’s Guide, C++ Programming in Easy Steps, HTML and CSS: Design and Build Websites",Effective Java (2nd Edition),0.2,1.0
+"A Beginner’s Guide, Effective Java (2nd Edition), HTML and CSS: Design and Build Websites",C++ Programming in Easy Steps,0.2,0.667
+"A Beginner’s Guide, C++ Programming in Easy Steps, Effective Java (2nd Edition)",HTML and CSS: Design and Build Websites,0.2,1.0
+"HTML and CSS: Design and Build Websites, Java: The Complete Reference","A Beginner’s Guide, Effective Java (2nd Edition)",0.2,0.667
+"Effective Java (2nd Edition), HTML and CSS: Design and Build Websites","A Beginner’s Guide, Java: The Complete Reference",0.2,0.5
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites","Effective Java (2nd Edition), Java: The Complete Reference",0.2,0.5
+"Effective Java (2nd Edition), Java: The Complete Reference","A Beginner’s Guide, HTML and CSS: Design and Build Websites",0.2,1.0
+"A Beginner’s Guide, Java: The Complete Reference","Effective Java (2nd Edition), HTML and CSS: Design and Build Websites",0.2,0.5
+"A Beginner’s Guide, Effective Java (2nd Edition)","HTML and CSS: Design and Build Websites, Java: The Complete Reference",0.2,0.667
+"Effective Java (2nd Edition), HTML and CSS: Design and Build Websites, Java: The Complete Reference",A Beginner’s Guide,0.2,1.0
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites, Java: The Complete Reference",Effective Java (2nd Edition),0.2,0.667
+"A Beginner’s Guide, Effective Java (2nd Edition), HTML and CSS: Design and Build Websites",Java: The Complete Reference,0.2,0.667
+"A Beginner’s Guide, Effective Java (2nd Edition), Java: The Complete Reference",HTML and CSS: Design and Build Websites,0.2,1.0
+"HTML and CSS: Design and Build Websites, Java: The Complete Reference","A Beginner’s Guide, Java For Dummies",0.2,0.667
+"Java For Dummies, Java: The Complete Reference","A Beginner’s Guide, HTML and CSS: Design and Build Websites",0.2,0.5
+"A Beginner’s Guide, Java: The Complete Reference","HTML and CSS: Design and Build Websites, Java For Dummies",0.2,0.5
+"HTML and CSS: Design and Build Websites, Java For Dummies","A Beginner’s Guide, Java: The Complete Reference",0.2,1.0
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites","Java For Dummies, Java: The Complete Reference",0.2,0.5
+"A Beginner’s Guide, Java For Dummies","HTML and CSS: Design and Build Websites, Java: The Complete Reference",0.2,0.667
+"HTML and CSS: Design and Build Websites, Java For Dummies, Java: The Complete Reference",A Beginner’s Guide,0.2,1.0
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites, Java: The Complete Reference",Java For Dummies,0.2,0.667
+"A Beginner’s Guide, Java For Dummies, Java: The Complete Reference",HTML and CSS: Design and Build Websites,0.2,0.667
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites, Java For Dummies",Java: The Complete Reference,0.2,1.0
+"Android Programming: The Big Nerd Ranch, Java 8 Pocket Guide","Beginning Programming with Java, Head First Java 2nd Edition",0.2,1.0
+"Beginning Programming with Java, Java 8 Pocket Guide","Android Programming: The Big Nerd Ranch, Head First Java 2nd Edition",0.2,0.5
+"Head First Java 2nd Edition, Java 8 Pocket Guide","Android Programming: The Big Nerd Ranch, Beginning Programming with Java",0.2,0.667
+"Android Programming: The Big Nerd Ranch, Beginning Programming with Java","Head First Java 2nd Edition, Java 8 Pocket Guide",0.2,0.667
+"Android Programming: The Big Nerd Ranch, Head First Java 2nd Edition","Beginning Programming with Java, Java 8 Pocket Guide",0.2,0.5
+"Beginning Programming with Java, Head First Java 2nd Edition","Android Programming: The Big Nerd Ranch, Java 8 Pocket Guide",0.2,0.5
+"Android Programming: The Big Nerd Ranch, Beginning Programming with Java, Java 8 Pocket Guide",Head First Java 2nd Edition,0.2,1.0
+"Android Programming: The Big Nerd Ranch, Head First Java 2nd Edition, Java 8 Pocket Guide",Beginning Programming with Java,0.2,1.0
+"Beginning Programming with Java, Head First Java 2nd Edition, Java 8 Pocket Guide",Android Programming: The Big Nerd Ranch,0.2,0.667
+"Android Programming: The Big Nerd Ranch, Beginning Programming with Java, Head First Java 2nd Edition",Java 8 Pocket Guide,0.2,0.667
+"Android Programming: The Big Nerd Ranch, Beginning Programming with Java","Head First Java 2nd Edition, Java For Dummies",0.2,0.667
+"Android Programming: The Big Nerd Ranch, Head First Java 2nd Edition","Beginning Programming with Java, Java For Dummies",0.2,0.5
+"Android Programming: The Big Nerd Ranch, Java For Dummies","Beginning Programming with Java, Head First Java 2nd Edition",0.2,0.5
+"Beginning Programming with Java, Head First Java 2nd Edition","Android Programming: The Big Nerd Ranch, Java For Dummies",0.2,0.5
+"Beginning Programming with Java, Java For Dummies","Android Programming: The Big Nerd Ranch, Head First Java 2nd Edition",0.2,1.0
+"Head First Java 2nd Edition, Java For Dummies","Android Programming: The Big Nerd Ranch, Beginning Programming with Java",0.2,0.667
+"Android Programming: The Big Nerd Ranch, Beginning Programming with Java, Head First Java 2nd Edition",Java For Dummies,0.2,0.667
+"Android Programming: The Big Nerd Ranch, Beginning Programming with Java, Java For Dummies",Head First Java 2nd Edition,0.2,1.0
+"Android Programming: The Big Nerd Ranch, Head First Java 2nd Edition, Java For Dummies",Beginning Programming with Java,0.2,0.667
+"Beginning Programming with Java, Head First Java 2nd Edition, Java For Dummies",Android Programming: The Big Nerd Ranch,0.2,1.0
+"Android Programming: The Big Nerd Ranch, Java: The Complete Reference","HTML and CSS: Design and Build Websites, Java For Dummies",0.2,0.667
+"HTML and CSS: Design and Build Websites, Java: The Complete Reference","Android Programming: The Big Nerd Ranch, Java For Dummies",0.2,0.667
+"Java For Dummies, Java: The Complete Reference","Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites",0.2,0.5
+"Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites","Java For Dummies, Java: The Complete Reference",0.2,1.0
+"Android Programming: The Big Nerd Ranch, Java For Dummies","HTML and CSS: Design and Build Websites, Java: The Complete Reference",0.2,0.5
+"HTML and CSS: Design and Build Websites, Java For Dummies","Android Programming: The Big Nerd Ranch, Java: The Complete Reference",0.2,1.0
+"Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites, Java: The Complete Reference",Java For Dummies,0.2,1.0
+"Android Programming: The Big Nerd Ranch, Java For Dummies, Java: The Complete Reference",HTML and CSS: Design and Build Websites,0.2,0.667
+"HTML and CSS: Design and Build Websites, Java For Dummies, Java: The Complete Reference",Android Programming: The Big Nerd Ranch,0.2,1.0
+"Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites, Java For Dummies",Java: The Complete Reference,0.2,1.0
+"Android Programming: The Big Nerd Ranch, Java: The Complete Reference","Head First Java 2nd Edition, Java For Dummies",0.2,0.667
+"Head First Java 2nd Edition, Java: The Complete Reference","Android Programming: The Big Nerd Ranch, Java For Dummies",0.2,1.0
+"Java For Dummies, Java: The Complete Reference","Android Programming: The Big Nerd Ranch, Head First Java 2nd Edition",0.2,0.5
+"Android Programming: The Big Nerd Ranch, Head First Java 2nd Edition","Java For Dummies, Java: The Complete Reference",0.2,0.5
+"Android Programming: The Big Nerd Ranch, Java For Dummies","Head First Java 2nd Edition, Java: The Complete Reference",0.2,0.5
+"Head First Java 2nd Edition, Java For Dummies","Android Programming: The Big Nerd Ranch, Java: The Complete Reference",0.2,0.667
+"Android Programming: The Big Nerd Ranch, Head First Java 2nd Edition, Java: The Complete Reference",Java For Dummies,0.2,1.0
+"Android Programming: The Big Nerd Ranch, Java For Dummies, Java: The Complete Reference",Head First Java 2nd Edition,0.2,0.667
+"Head First Java 2nd Edition, Java For Dummies, Java: The Complete Reference",Android Programming: The Big Nerd Ranch,0.2,1.0
+"Android Programming: The Big Nerd Ranch, Head First Java 2nd Edition, Java For Dummies",Java: The Complete Reference,0.2,0.667
+"Beginning Programming with Java, C++ Programming in Easy Steps","Effective Java (2nd Edition), Head First Java 2nd Edition",0.2,0.667
+"C++ Programming in Easy Steps, Effective Java (2nd Edition)","Beginning Programming with Java, Head First Java 2nd Edition",0.2,0.5
+"C++ Programming in Easy Steps, Head First Java 2nd Edition","Beginning Programming with Java, Effective Java (2nd Edition)",0.2,1.0
+"Beginning Programming with Java, Effective Java (2nd Edition)","C++ Programming in Easy Steps, Head First Java 2nd Edition",0.2,1.0
+"Beginning Programming with Java, Head First Java 2nd Edition","C++ Programming in Easy Steps, Effective Java (2nd Edition)",0.2,0.5
+"Effective Java (2nd Edition), Head First Java 2nd Edition","Beginning Programming with Java, C++ Programming in Easy Steps",0.2,1.0
+"Beginning Programming with Java, C++ Programming in Easy Steps, Effective Java (2nd Edition)",Head First Java 2nd Edition,0.2,1.0
+"Beginning Programming with Java, C++ Programming in Easy Steps, Head First Java 2nd Edition",Effective Java (2nd Edition),0.2,1.0
+"C++ Programming in Easy Steps, Effective Java (2nd Edition), Head First Java 2nd Edition",Beginning Programming with Java,0.2,1.0
+"Beginning Programming with Java, Effective Java (2nd Edition), Head First Java 2nd Edition",C++ Programming in Easy Steps,0.2,1.0
+"C++ Programming in Easy Steps, Java 8 Pocket Guide","Beginning Programming with Java, Effective Java (2nd Edition)",0.2,0.5
+"Beginning Programming with Java, Java 8 Pocket Guide","C++ Programming in Easy Steps, Effective Java (2nd Edition)",0.2,0.5
+"Effective Java (2nd Edition), Java 8 Pocket Guide","Beginning Programming with Java, C++ Programming in Easy Steps",0.2,0.667
+"Beginning Programming with Java, C++ Programming in Easy Steps","Effective Java (2nd Edition), Java 8 Pocket Guide",0.2,0.667
+"C++ Programming in Easy Steps, Effective Java (2nd Edition)","Beginning Programming with Java, Java 8 Pocket Guide",0.2,0.5
+"Beginning Programming with Java, Effective Java (2nd Edition)","C++ Programming in Easy Steps, Java 8 Pocket Guide",0.2,1.0
+"Beginning Programming with Java, C++ Programming in Easy Steps, Java 8 Pocket Guide",Effective Java (2nd Edition),0.2,0.667
+"C++ Programming in Easy Steps, Effective Java (2nd Edition), Java 8 Pocket Guide",Beginning Programming with Java,0.2,0.667
+"Beginning Programming with Java, Effective Java (2nd Edition), Java 8 Pocket Guide",C++ Programming in Easy Steps,0.2,1.0
+"Beginning Programming with Java, C++ Programming in Easy Steps, Effective Java (2nd Edition)",Java 8 Pocket Guide,0.2,1.0
+"C++ Programming in Easy Steps, Java 8 Pocket Guide","Beginning Programming with Java, Head First Java 2nd Edition",0.2,0.5
+"Beginning Programming with Java, Java 8 Pocket Guide","C++ Programming in Easy Steps, Head First Java 2nd Edition",0.2,0.5
+"Head First Java 2nd Edition, Java 8 Pocket Guide","Beginning Programming with Java, C++ Programming in Easy Steps",0.2,0.667
+"Beginning Programming with Java, C++ Programming in Easy Steps","Head First Java 2nd Edition, Java 8 Pocket Guide",0.2,0.667
+"C++ Programming in Easy Steps, Head First Java 2nd Edition","Beginning Programming with Java, Java 8 Pocket Guide",0.2,1.0
+"Beginning Programming with Java, Head First Java 2nd Edition","C++ Programming in Easy Steps, Java 8 Pocket Guide",0.2,0.5
+"Beginning Programming with Java, C++ Programming in Easy Steps, Java 8 Pocket Guide",Head First Java 2nd Edition,0.2,0.667
+"C++ Programming in Easy Steps, Head First Java 2nd Edition, Java 8 Pocket Guide",Beginning Programming with Java,0.2,1.0
+"Beginning Programming with Java, Head First Java 2nd Edition, Java 8 Pocket Guide",C++ Programming in Easy Steps,0.2,0.667
+"Beginning Programming with Java, C++ Programming in Easy Steps, Head First Java 2nd Edition",Java 8 Pocket Guide,0.2,1.0
+"Beginning Programming with Java, Java 8 Pocket Guide","Effective Java (2nd Edition), Head First Java 2nd Edition",0.2,0.5
+"Effective Java (2nd Edition), Java 8 Pocket Guide","Beginning Programming with Java, Head First Java 2nd Edition",0.2,0.667
+"Head First Java 2nd Edition, Java 8 Pocket Guide","Beginning Programming with Java, Effective Java (2nd Edition)",0.2,0.667
+"Beginning Programming with Java, Effective Java (2nd Edition)","Head First Java 2nd Edition, Java 8 Pocket Guide",0.2,1.0
+"Beginning Programming with Java, Head First Java 2nd Edition","Effective Java (2nd Edition), Java 8 Pocket Guide",0.2,0.5
+"Effective Java (2nd Edition), Head First Java 2nd Edition","Beginning Programming with Java, Java 8 Pocket Guide",0.2,1.0
+"Beginning Programming with Java, Effective Java (2nd Edition), Java 8 Pocket Guide",Head First Java 2nd Edition,0.2,1.0
+"Beginning Programming with Java, Head First Java 2nd Edition, Java 8 Pocket Guide",Effective Java (2nd Edition),0.2,0.667
+"Effective Java (2nd Edition), Head First Java 2nd Edition, Java 8 Pocket Guide",Beginning Programming with Java,0.2,1.0
+"Beginning Programming with Java, Effective Java (2nd Edition), Head First Java 2nd Edition",Java 8 Pocket Guide,0.2,1.0
+"HTML and CSS: Design and Build Websites, Java 8 Pocket Guide","C++ Programming in Easy Steps, Effective Java (2nd Edition)",0.2,1.0
+"C++ Programming in Easy Steps, HTML and CSS: Design and Build Websites","Effective Java (2nd Edition), Java 8 Pocket Guide",0.2,0.667
+"Effective Java (2nd Edition), HTML and CSS: Design and Build Websites","C++ Programming in Easy Steps, Java 8 Pocket Guide",0.2,0.5
+"C++ Programming in Easy Steps, Java 8 Pocket Guide","Effective Java (2nd Edition), HTML and CSS: Design and Build Websites",0.2,0.5
+"Effective Java (2nd Edition), Java 8 Pocket Guide","C++ Programming in Easy Steps, HTML and CSS: Design and Build Websites",0.2,0.667
+"C++ Programming in Easy Steps, Effective Java (2nd Edition)","HTML and CSS: Design and Build Websites, Java 8 Pocket Guide",0.2,0.5
+"C++ Programming in Easy Steps, HTML and CSS: Design and Build Websites, Java 8 Pocket Guide",Effective Java (2nd Edition),0.2,1.0
+"Effective Java (2nd Edition), HTML and CSS: Design and Build Websites, Java 8 Pocket Guide",C++ Programming in Easy Steps,0.2,1.0
+"C++ Programming in Easy Steps, Effective Java (2nd Edition), HTML and CSS: Design and Build Websites",Java 8 Pocket Guide,0.2,0.667
+"C++ Programming in Easy Steps, Effective Java (2nd Edition), Java 8 Pocket Guide",HTML and CSS: Design and Build Websites,0.2,0.667
+"C++ Programming in Easy Steps, Java 8 Pocket Guide","Effective Java (2nd Edition), Head First Java 2nd Edition",0.2,0.5
+"Effective Java (2nd Edition), Java 8 Pocket Guide","C++ Programming in Easy Steps, Head First Java 2nd Edition",0.2,0.667
+"Head First Java 2nd Edition, Java 8 Pocket Guide","C++ Programming in Easy Steps, Effective Java (2nd Edition)",0.2,0.667
+"C++ Programming in Easy Steps, Effective Java (2nd Edition)","Head First Java 2nd Edition, Java 8 Pocket Guide",0.2,0.5
+"C++ Programming in Easy Steps, Head First Java 2nd Edition","Effective Java (2nd Edition), Java 8 Pocket Guide",0.2,1.0
+"Effective Java (2nd Edition), Head First Java 2nd Edition","C++ Programming in Easy Steps, Java 8 Pocket Guide",0.2,1.0
+"C++ Programming in Easy Steps, Effective Java (2nd Edition), Java 8 Pocket Guide",Head First Java 2nd Edition,0.2,0.667
+"C++ Programming in Easy Steps, Head First Java 2nd Edition, Java 8 Pocket Guide",Effective Java (2nd Edition),0.2,1.0
+"Effective Java (2nd Edition), Head First Java 2nd Edition, Java 8 Pocket Guide",C++ Programming in Easy Steps,0.2,1.0
+"C++ Programming in Easy Steps, Effective Java (2nd Edition), Head First Java 2nd Edition",Java 8 Pocket Guide,0.2,1.0
+"Android Programming: The Big Nerd Ranch, Java: The Complete Reference","A Beginner’s Guide, HTML and CSS: Design and Build Websites, Java For Dummies",0.2,0.667
+"HTML and CSS: Design and Build Websites, Java: The Complete Reference","A Beginner’s Guide, Android Programming: The Big Nerd Ranch, Java For Dummies",0.2,0.667
+"A Beginner’s Guide, Java: The Complete Reference","Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites, Java For Dummies",0.2,0.5
+"Java For Dummies, Java: The Complete Reference","A Beginner’s Guide, Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites",0.2,0.5
+"Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites","A Beginner’s Guide, Java For Dummies, Java: The Complete Reference",0.2,1.0
+"A Beginner’s Guide, Android Programming: The Big Nerd Ranch","HTML and CSS: Design and Build Websites, Java For Dummies, Java: The Complete Reference",0.2,1.0
+"Android Programming: The Big Nerd Ranch, Java For Dummies","A Beginner’s Guide, HTML and CSS: Design and Build Websites, Java: The Complete Reference",0.2,0.5
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites","Android Programming: The Big Nerd Ranch, Java For Dummies, Java: The Complete Reference",0.2,0.5
+"HTML and CSS: Design and Build Websites, Java For Dummies","A Beginner’s Guide, Android Programming: The Big Nerd Ranch, Java: The Complete Reference",0.2,1.0
+"A Beginner’s Guide, Java For Dummies","Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites, Java: The Complete Reference",0.2,0.667
+"Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites, Java: The Complete Reference","A Beginner’s Guide, Java For Dummies",0.2,1.0
+"A Beginner’s Guide, Android Programming: The Big Nerd Ranch, Java: The Complete Reference","HTML and CSS: Design and Build Websites, Java For Dummies",0.2,1.0
+"Android Programming: The Big Nerd Ranch, Java For Dummies, Java: The Complete Reference","A Beginner’s Guide, HTML and CSS: Design and Build Websites",0.2,0.667
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites, Java: The Complete Reference","Android Programming: The Big Nerd Ranch, Java For Dummies",0.2,0.667
+"HTML and CSS: Design and Build Websites, Java For Dummies, Java: The Complete Reference","A Beginner’s Guide, Android Programming: The Big Nerd Ranch",0.2,1.0
+"A Beginner’s Guide, Java For Dummies, Java: The Complete Reference","Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites",0.2,0.667
+"A Beginner’s Guide, Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites","Java For Dummies, Java: The Complete Reference",0.2,1.0
+"Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites, Java For Dummies","A Beginner’s Guide, Java: The Complete Reference",0.2,1.0
+"A Beginner’s Guide, Android Programming: The Big Nerd Ranch, Java For Dummies","HTML and CSS: Design and Build Websites, Java: The Complete Reference",0.2,1.0
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites, Java For Dummies","Android Programming: The Big Nerd Ranch, Java: The Complete Reference",0.2,1.0
+"A Beginner’s Guide, Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites, Java: The Complete Reference",Java For Dummies,0.2,1.0
+"Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites, Java For Dummies, Java: The Complete Reference",A Beginner’s Guide,0.2,1.0
+"A Beginner’s Guide, Android Programming: The Big Nerd Ranch, Java For Dummies, Java: The Complete Reference",HTML and CSS: Design and Build Websites,0.2,1.0
+"A Beginner’s Guide, HTML and CSS: Design and Build Websites, Java For Dummies, Java: The Complete Reference",Android Programming: The Big Nerd Ranch,0.2,1.0
+"A Beginner’s Guide, Android Programming: The Big Nerd Ranch, HTML and CSS: Design and Build Websites, Java For Dummies",Java: The Complete Reference,0.2,1.0
+"Effective Java (2nd Edition), Head First Java 2nd Edition","Beginning Programming with Java, C++ Programming in Easy Steps, Java 8 Pocket Guide",0.2,1.0
+"C++ Programming in Easy Steps, Head First Java 2nd Edition","Beginning Programming with Java, Effective Java (2nd Edition), Java 8 Pocket Guide",0.2,1.0
+"Beginning Programming with Java, Head First Java 2nd Edition","C++ Programming in Easy Steps, Effective Java (2nd Edition), Java 8 Pocket Guide",0.2,0.5
+"Head First Java 2nd Edition, Java 8 Pocket Guide","Beginning Programming with Java, C++ Programming in Easy Steps, Effective Java (2nd Edition)",0.2,0.667
+"C++ Programming in Easy Steps, Effective Java (2nd Edition)","Beginning Programming with Java, Head First Java 2nd Edition, Java 8 Pocket Guide",0.2,0.5
+"Beginning Programming with Java, Effective Java (2nd Edition)","C++ Programming in Easy Steps, Head First Java 2nd Edition, Java 8 Pocket Guide",0.2,1.0
+"Effective Java (2nd Edition), Java 8 Pocket Guide","Beginning Programming with Java, C++ Programming in Easy Steps, Head First Java 2nd Edition",0.2,0.667
+"Beginning Programming with Java, C++ Programming in Easy Steps","Effective Java (2nd Edition), Head First Java 2nd Edition, Java 8 Pocket Guide",0.2,0.667
+"C++ Programming in Easy Steps, Java 8 Pocket Guide","Beginning Programming with Java, Effective Java (2nd Edition), Head First Java 2nd Edition",0.2,0.5
+"Beginning Programming with Java, Java 8 Pocket Guide","C++ Programming in Easy Steps, Effective Java (2nd Edition), Head First Java 2nd Edition",0.2,0.5
+"C++ Programming in Easy Steps, Effective Java (2nd Edition), Head First Java 2nd Edition","Beginning Programming with Java, Java 8 Pocket Guide",0.2,1.0
+"Beginning Programming with Java, Effective Java (2nd Edition), Head First Java 2nd Edition","C++ Programming in Easy Steps, Java 8 Pocket Guide",0.2,1.0
+"Effective Java (2nd Edition), Head First Java 2nd Edition, Java 8 Pocket Guide","Beginning Programming with Java, C++ Programming in Easy Steps",0.2,1.0
+"Beginning Programming with Java, C++ Programming in Easy Steps, Head First Java 2nd Edition","Effective Java (2nd Edition), Java 8 Pocket Guide",0.2,1.0
+"C++ Programming in Easy Steps, Head First Java 2nd Edition, Java 8 Pocket Guide","Beginning Programming with Java, Effective Java (2nd Edition)",0.2,1.0
+"Beginning Programming with Java, Head First Java 2nd Edition, Java 8 Pocket Guide","C++ Programming in Easy Steps, Effective Java (2nd Edition)",0.2,0.667
+"Beginning Programming with Java, C++ Programming in Easy Steps, Effective Java (2nd Edition)","Head First Java 2nd Edition, Java 8 Pocket Guide",0.2,1.0
+"C++ Programming in Easy Steps, Effective Java (2nd Edition), Java 8 Pocket Guide","Beginning Programming with Java, Head First Java 2nd Edition",0.2,0.667
+"Beginning Programming with Java, Effective Java (2nd Edition), Java 8 Pocket Guide","C++ Programming in Easy Steps, Head First Java 2nd Edition",0.2,1.0
+"Beginning Programming with Java, C++ Programming in Easy Steps, Java 8 Pocket Guide","Effective Java (2nd Edition), Head First Java 2nd Edition",0.2,0.667
+"Beginning Programming with Java, C++ Programming in Easy Steps, Effective Java (2nd Edition), Head First Java 2nd Edition",Java 8 Pocket Guide,0.2,1.0
+"C++ Programming in Easy Steps, Effective Java (2nd Edition), Head First Java 2nd Edition, Java 8 Pocket Guide",Beginning Programming with Java,0.2,1.0
+"Beginning Programming with Java, Effective Java (2nd Edition), Head First Java 2nd Edition, Java 8 Pocket Guide",C++ Programming in Easy Steps,0.2,1.0
+"Beginning Programming with Java, C++ Programming in Easy Steps, Head First Java 2nd Edition, Java 8 Pocket Guide",Effective Java (2nd Edition),0.2,1.0
+"Beginning Programming with Java, C++ Programming in Easy Steps, Effective Java (2nd Edition), Java 8 Pocket Guide",Head First Java 2nd Edition,0.2,1.0

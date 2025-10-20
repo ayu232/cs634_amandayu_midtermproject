@@ -1,0 +1,4 @@
+Algorithm,Execution Time (s)
+Brute Force,0.051
+Apriori,0.638
+FP-Growth,0.134

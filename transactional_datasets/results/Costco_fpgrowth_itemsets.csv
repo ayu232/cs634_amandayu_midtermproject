@@ -1,0 +1,311 @@
+Itemset,support
+Milk,0.5
+Eggs,0.5
+Bread,0.5
+Cheese,0.5
+Butter,0.5
+Rice,0.5
+Chicken,0.5
+Pasta,0.5
+Olive Oil,0.5
+Tomato Sauce,0.5
+"Milk, Tomato Sauce",0.4
+"Milk, Pasta",0.3
+"Milk, Olive Oil",0.2
+"Milk, Rice",0.1
+"Milk, Pasta, Tomato Sauce",0.3
+"Milk, Olive Oil, Tomato Sauce",0.2
+"Milk, Rice, Tomato Sauce",0.1
+"Milk, Olive Oil, Pasta",0.2
+"Milk, Pasta, Rice",0.1
+"Milk, Olive Oil, Rice",0.1
+"Milk, Olive Oil, Pasta, Tomato Sauce",0.2
+"Milk, Pasta, Rice, Tomato Sauce",0.1
+"Milk, Olive Oil, Rice, Tomato Sauce",0.1
+"Milk, Olive Oil, Pasta, Rice",0.1
+"Milk, Olive Oil, Pasta, Rice, Tomato Sauce",0.1
+"Eggs, Milk",0.4
+"Eggs, Tomato Sauce",0.3
+"Eggs, Pasta",0.2
+"Eggs, Olive Oil",0.1
+"Eggs, Milk, Tomato Sauce",0.3
+"Eggs, Milk, Pasta",0.2
+"Eggs, Milk, Olive Oil",0.1
+"Eggs, Pasta, Tomato Sauce",0.2
+"Eggs, Olive Oil, Tomato Sauce",0.1
+"Eggs, Olive Oil, Pasta",0.1
+"Eggs, Milk, Pasta, Tomato Sauce",0.2
+"Eggs, Milk, Olive Oil, Tomato Sauce",0.1
+"Eggs, Milk, Olive Oil, Pasta",0.1
+"Eggs, Olive Oil, Pasta, Tomato Sauce",0.1
+"Eggs, Milk, Olive Oil, Pasta, Tomato Sauce",0.1
+"Bread, Eggs",0.4
+"Bread, Milk",0.3
+"Bread, Cheese",0.4
+"Bread, Butter",0.3
+"Bread, Chicken",0.2
+"Bread, Rice",0.1
+"Bread, Tomato Sauce",0.2
+"Bread, Pasta",0.1
+"Bread, Cheese, Eggs",0.3
+"Bread, Eggs, Milk",0.3
+"Bread, Cheese, Milk",0.2
+"Bread, Butter, Milk",0.1
+"Bread, Cheese, Eggs, Milk",0.2
+"Bread, Butter, Eggs, Milk",0.1
+"Bread, Butter, Cheese, Milk",0.1
+"Bread, Butter, Cheese, Eggs, Milk",0.1
+"Bread, Butter, Cheese",0.3
+"Bread, Butter, Eggs",0.2
+"Bread, Butter, Cheese, Eggs",0.2
+"Bread, Butter, Chicken",0.2
+"Bread, Cheese, Chicken",0.2
+"Bread, Chicken, Tomato Sauce",0.1
+"Bread, Chicken, Milk",0.1
+"Bread, Chicken, Eggs",0.1
+"Bread, Butter, Cheese, Chicken",0.2
+"Bread, Butter, Chicken, Tomato Sauce",0.1
+"Bread, Butter, Chicken, Milk",0.1
+"Bread, Butter, Chicken, Eggs",0.1
+"Bread, Cheese, Chicken, Tomato Sauce",0.1
+"Bread, Cheese, Chicken, Milk",0.1
+"Bread, Cheese, Chicken, Eggs",0.1
+"Bread, Chicken, Milk, Tomato Sauce",0.1
+"Bread, Chicken, Eggs, Tomato Sauce",0.1
+"Bread, Chicken, Eggs, Milk",0.1
+"Bread, Butter, Cheese, Chicken, Tomato Sauce",0.1
+"Bread, Butter, Cheese, Chicken, Milk",0.1
+"Bread, Butter, Cheese, Chicken, Eggs",0.1
+"Bread, Butter, Chicken, Milk, Tomato Sauce",0.1
+"Bread, Butter, Chicken, Eggs, Tomato Sauce",0.1
+"Bread, Butter, Chicken, Eggs, Milk",0.1
+"Bread, Cheese, Chicken, Milk, Tomato Sauce",0.1
+"Bread, Cheese, Chicken, Eggs, Tomato Sauce",0.1
+"Bread, Cheese, Chicken, Eggs, Milk",0.1
+"Bread, Chicken, Eggs, Milk, Tomato Sauce",0.1
+"Bread, Butter, Cheese, Chicken, Milk, Tomato Sauce",0.1
+"Bread, Butter, Cheese, Chicken, Eggs, Tomato Sauce",0.1
+"Bread, Butter, Cheese, Chicken, Eggs, Milk",0.1
+"Bread, Butter, Chicken, Eggs, Milk, Tomato Sauce",0.1
+"Bread, Cheese, Chicken, Eggs, Milk, Tomato Sauce",0.1
+"Bread, Butter, Cheese, Chicken, Eggs, Milk, Tomato Sauce",0.1
+"Bread, Chicken, Rice",0.1
+"Bread, Butter, Rice",0.1
+"Bread, Cheese, Rice",0.1
+"Bread, Butter, Chicken, Rice",0.1
+"Bread, Cheese, Chicken, Rice",0.1
+"Bread, Butter, Cheese, Rice",0.1
+"Bread, Butter, Cheese, Chicken, Rice",0.1
+"Bread, Milk, Tomato Sauce",0.2
+"Bread, Eggs, Tomato Sauce",0.2
+"Bread, Cheese, Tomato Sauce",0.2
+"Bread, Butter, Tomato Sauce",0.1
+"Bread, Eggs, Milk, Tomato Sauce",0.2
+"Bread, Cheese, Milk, Tomato Sauce",0.2
+"Bread, Butter, Milk, Tomato Sauce",0.1
+"Bread, Cheese, Eggs, Tomato Sauce",0.2
+"Bread, Butter, Eggs, Tomato Sauce",0.1
+"Bread, Butter, Cheese, Tomato Sauce",0.1
+"Bread, Cheese, Eggs, Milk, Tomato Sauce",0.2
+"Bread, Butter, Eggs, Milk, Tomato Sauce",0.1
+"Bread, Butter, Cheese, Milk, Tomato Sauce",0.1
+"Bread, Butter, Cheese, Eggs, Tomato Sauce",0.1
+"Bread, Butter, Cheese, Eggs, Milk, Tomato Sauce",0.1
+"Bread, Pasta, Tomato Sauce",0.1
+"Bread, Milk, Pasta",0.1
+"Bread, Eggs, Pasta",0.1
+"Bread, Cheese, Pasta",0.1
+"Bread, Milk, Pasta, Tomato Sauce",0.1
+"Bread, Eggs, Pasta, Tomato Sauce",0.1
+"Bread, Cheese, Pasta, Tomato Sauce",0.1
+"Bread, Eggs, Milk, Pasta",0.1
+"Bread, Cheese, Milk, Pasta",0.1
+"Bread, Cheese, Eggs, Pasta",0.1
+"Bread, Eggs, Milk, Pasta, Tomato Sauce",0.1
+"Bread, Cheese, Milk, Pasta, Tomato Sauce",0.1
+"Bread, Cheese, Eggs, Pasta, Tomato Sauce",0.1
+"Bread, Cheese, Eggs, Milk, Pasta",0.1
+"Bread, Cheese, Eggs, Milk, Pasta, Tomato Sauce",0.1
+"Cheese, Eggs",0.3
+"Cheese, Chicken",0.3
+"Cheese, Rice",0.2
+"Cheese, Pasta",0.2
+"Cheese, Olive Oil",0.1
+"Cheese, Milk",0.2
+"Cheese, Tomato Sauce",0.2
+"Cheese, Chicken, Eggs",0.1
+"Cheese, Chicken, Rice",0.2
+"Cheese, Pasta, Rice",0.1
+"Cheese, Chicken, Pasta, Rice",0.1
+"Cheese, Chicken, Pasta",0.1
+"Cheese, Pasta, Tomato Sauce",0.1
+"Cheese, Milk, Pasta",0.1
+"Cheese, Eggs, Pasta",0.1
+"Cheese, Milk, Pasta, Tomato Sauce",0.1
+"Cheese, Eggs, Milk, Pasta",0.1
+"Cheese, Eggs, Pasta, Tomato Sauce",0.1
+"Cheese, Eggs, Milk, Pasta, Tomato Sauce",0.1
+"Cheese, Olive Oil, Rice",0.1
+"Cheese, Olive Oil, Pasta",0.1
+"Cheese, Chicken, Olive Oil",0.1
+"Cheese, Olive Oil, Pasta, Rice",0.1
+"Cheese, Chicken, Olive Oil, Rice",0.1
+"Cheese, Chicken, Olive Oil, Pasta",0.1
+"Cheese, Chicken, Olive Oil, Pasta, Rice",0.1
+"Cheese, Eggs, Milk",0.2
+"Cheese, Chicken, Milk",0.1
+"Cheese, Chicken, Eggs, Milk",0.1
+"Cheese, Milk, Tomato Sauce",0.2
+"Cheese, Eggs, Tomato Sauce",0.2
+"Cheese, Chicken, Tomato Sauce",0.1
+"Cheese, Eggs, Milk, Tomato Sauce",0.2
+"Cheese, Chicken, Milk, Tomato Sauce",0.1
+"Cheese, Chicken, Eggs, Tomato Sauce",0.1
+"Cheese, Chicken, Eggs, Milk, Tomato Sauce",0.1
+"Butter, Cheese",0.4
+"Butter, Eggs",0.2
+"Butter, Chicken",0.4
+"Butter, Rice",0.3
+"Butter, Olive Oil",0.2
+"Butter, Pasta",0.2
+"Butter, Milk",0.2
+"Butter, Tomato Sauce",0.2
+"Butter, Cheese, Chicken",0.3
+"Butter, Cheese, Eggs",0.2
+"Butter, Eggs, Tomato Sauce",0.1
+"Butter, Eggs, Milk",0.1
+"Butter, Chicken, Eggs",0.1
+"Butter, Cheese, Eggs, Tomato Sauce",0.1
+"Butter, Cheese, Eggs, Milk",0.1
+"Butter, Cheese, Chicken, Eggs",0.1
+"Butter, Eggs, Milk, Tomato Sauce",0.1
+"Butter, Chicken, Eggs, Tomato Sauce",0.1
+"Butter, Chicken, Eggs, Milk",0.1
+"Butter, Cheese, Eggs, Milk, Tomato Sauce",0.1
+"Butter, Cheese, Chicken, Eggs, Tomato Sauce",0.1
+"Butter, Cheese, Chicken, Eggs, Milk",0.1
+"Butter, Chicken, Eggs, Milk, Tomato Sauce",0.1
+"Butter, Cheese, Chicken, Eggs, Milk, Tomato Sauce",0.1
+"Butter, Chicken, Rice",0.3
+"Butter, Cheese, Rice",0.2
+"Butter, Cheese, Chicken, Rice",0.2
+"Butter, Olive Oil, Rice",0.2
+"Butter, Chicken, Olive Oil",0.2
+"Butter, Cheese, Olive Oil",0.1
+"Butter, Olive Oil, Tomato Sauce",0.1
+"Butter, Milk, Olive Oil",0.1
+"Butter, Chicken, Olive Oil, Rice",0.2
+"Butter, Cheese, Chicken, Olive Oil",0.1
+"Butter, Cheese, Olive Oil, Rice",0.1
+"Butter, Cheese, Chicken, Olive Oil, Rice",0.1
+"Butter, Chicken, Olive Oil, Tomato Sauce",0.1
+"Butter, Olive Oil, Rice, Tomato Sauce",0.1
+"Butter, Chicken, Olive Oil, Rice, Tomato Sauce",0.1
+"Butter, Milk, Olive Oil, Tomato Sauce",0.1
+"Butter, Chicken, Milk, Olive Oil",0.1
+"Butter, Milk, Olive Oil, Rice",0.1
+"Butter, Chicken, Milk, Olive Oil, Tomato Sauce",0.1
+"Butter, Milk, Olive Oil, Rice, Tomato Sauce",0.1
+"Butter, Chicken, Milk, Olive Oil, Rice",0.1
+"Butter, Chicken, Milk, Olive Oil, Rice, Tomato Sauce",0.1
+"Butter, Olive Oil, Pasta",0.2
+"Butter, Pasta, Rice",0.2
+"Butter, Chicken, Pasta",0.2
+"Butter, Cheese, Pasta",0.1
+"Butter, Pasta, Tomato Sauce",0.1
+"Butter, Milk, Pasta",0.1
+"Butter, Olive Oil, Pasta, Rice",0.2
+"Butter, Chicken, Pasta, Rice",0.2
+"Butter, Chicken, Olive Oil, Pasta",0.2
+"Butter, Chicken, Olive Oil, Pasta, Rice",0.2
+"Butter, Cheese, Chicken, Pasta",0.1
+"Butter, Cheese, Pasta, Rice",0.1
+"Butter, Cheese, Olive Oil, Pasta",0.1
+"Butter, Cheese, Chicken, Pasta, Rice",0.1
+"Butter, Cheese, Chicken, Olive Oil, Pasta",0.1
+"Butter, Cheese, Olive Oil, Pasta, Rice",0.1
+"Butter, Cheese, Chicken, Olive Oil, Pasta, Rice",0.1
+"Butter, Chicken, Pasta, Tomato Sauce",0.1
+"Butter, Pasta, Rice, Tomato Sauce",0.1
+"Butter, Olive Oil, Pasta, Tomato Sauce",0.1
+"Butter, Chicken, Pasta, Rice, Tomato Sauce",0.1
+"Butter, Chicken, Olive Oil, Pasta, Tomato Sauce",0.1
+"Butter, Olive Oil, Pasta, Rice, Tomato Sauce",0.1
+"Butter, Chicken, Olive Oil, Pasta, Rice, Tomato Sauce",0.1
+"Butter, Milk, Pasta, Tomato Sauce",0.1
+"Butter, Chicken, Milk, Pasta",0.1
+"Butter, Milk, Pasta, Rice",0.1
+"Butter, Milk, Olive Oil, Pasta",0.1
+"Butter, Chicken, Milk, Pasta, Tomato Sauce",0.1
+"Butter, Milk, Pasta, Rice, Tomato Sauce",0.1
+"Butter, Milk, Olive Oil, Pasta, Tomato Sauce",0.1
+"Butter, Chicken, Milk, Pasta, Rice",0.1
+"Butter, Chicken, Milk, Olive Oil, Pasta",0.1
+"Butter, Milk, Olive Oil, Pasta, Rice",0.1
+"Butter, Chicken, Milk, Pasta, Rice, Tomato Sauce",0.1
+"Butter, Chicken, Milk, Olive Oil, Pasta, Tomato Sauce",0.1
+"Butter, Milk, Olive Oil, Pasta, Rice, Tomato Sauce",0.1
+"Butter, Chicken, Milk, Olive Oil, Pasta, Rice",0.1
+"Butter, Chicken, Milk, Olive Oil, Pasta, Rice, Tomato Sauce",0.1
+"Butter, Chicken, Milk",0.2
+"Butter, Milk, Rice",0.1
+"Butter, Cheese, Milk",0.1
+"Butter, Chicken, Milk, Rice",0.1
+"Butter, Cheese, Chicken, Milk",0.1
+"Butter, Milk, Tomato Sauce",0.2
+"Butter, Chicken, Tomato Sauce",0.2
+"Butter, Rice, Tomato Sauce",0.1
+"Butter, Cheese, Tomato Sauce",0.1
+"Butter, Chicken, Milk, Tomato Sauce",0.2
+"Butter, Chicken, Rice, Tomato Sauce",0.1
+"Butter, Milk, Rice, Tomato Sauce",0.1
+"Butter, Chicken, Milk, Rice, Tomato Sauce",0.1
+"Butter, Cheese, Chicken, Tomato Sauce",0.1
+"Butter, Cheese, Milk, Tomato Sauce",0.1
+"Butter, Cheese, Chicken, Milk, Tomato Sauce",0.1
+"Rice, Tomato Sauce",0.2
+"Chicken, Rice",0.4
+"Chicken, Olive Oil",0.3
+"Chicken, Pasta",0.2
+"Chicken, Milk",0.2
+"Chicken, Tomato Sauce",0.2
+"Chicken, Eggs",0.1
+"Chicken, Olive Oil, Rice",0.3
+"Chicken, Olive Oil, Pasta",0.2
+"Chicken, Pasta, Rice",0.2
+"Chicken, Pasta, Tomato Sauce",0.1
+"Chicken, Milk, Pasta",0.1
+"Chicken, Olive Oil, Pasta, Rice",0.2
+"Chicken, Olive Oil, Pasta, Tomato Sauce",0.1
+"Chicken, Milk, Olive Oil, Pasta",0.1
+"Chicken, Pasta, Rice, Tomato Sauce",0.1
+"Chicken, Milk, Pasta, Rice",0.1
+"Chicken, Milk, Pasta, Tomato Sauce",0.1
+"Chicken, Olive Oil, Pasta, Rice, Tomato Sauce",0.1
+"Chicken, Milk, Olive Oil, Pasta, Rice",0.1
+"Chicken, Milk, Olive Oil, Pasta, Tomato Sauce",0.1
+"Chicken, Milk, Pasta, Rice, Tomato Sauce",0.1
+"Chicken, Milk, Olive Oil, Pasta, Rice, Tomato Sauce",0.1
+"Chicken, Milk, Olive Oil",0.1
+"Chicken, Milk, Rice",0.1
+"Chicken, Milk, Olive Oil, Rice",0.1
+"Chicken, Milk, Tomato Sauce",0.2
+"Chicken, Olive Oil, Tomato Sauce",0.1
+"Chicken, Rice, Tomato Sauce",0.1
+"Chicken, Milk, Olive Oil, Tomato Sauce",0.1
+"Chicken, Milk, Rice, Tomato Sauce",0.1
+"Chicken, Olive Oil, Rice, Tomato Sauce",0.1
+"Chicken, Milk, Olive Oil, Rice, Tomato Sauce",0.1
+"Chicken, Eggs, Tomato Sauce",0.1
+"Chicken, Eggs, Milk",0.1
+"Chicken, Eggs, Milk, Tomato Sauce",0.1
+"Pasta, Rice",0.3
+"Pasta, Tomato Sauce",0.4
+"Pasta, Rice, Tomato Sauce",0.2
+"Olive Oil, Pasta",0.4
+"Olive Oil, Rice",0.4
+"Olive Oil, Tomato Sauce",0.3
+"Olive Oil, Pasta, Rice",0.3
+"Olive Oil, Pasta, Tomato Sauce",0.3
+"Olive Oil, Rice, Tomato Sauce",0.2
+"Olive Oil, Pasta, Rice, Tomato Sauce",0.2

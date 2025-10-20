@@ -1,0 +1,41 @@
+Itemset,Support
+Bread,0.5
+Butter,0.5
+Cheese,0.5
+Chicken,0.5
+Eggs,0.5
+Milk,0.5
+Olive Oil,0.5
+Pasta,0.5
+Rice,0.5
+Tomato Sauce,0.5
+"Bread, Butter",0.3
+"Bread, Cheese",0.4
+"Bread, Eggs",0.4
+"Bread, Milk",0.3
+"Butter, Cheese",0.4
+"Butter, Chicken",0.4
+"Butter, Rice",0.3
+"Cheese, Chicken",0.3
+"Cheese, Eggs",0.3
+"Chicken, Olive Oil",0.3
+"Chicken, Rice",0.4
+"Eggs, Milk",0.4
+"Eggs, Tomato Sauce",0.3
+"Milk, Pasta",0.3
+"Milk, Tomato Sauce",0.4
+"Olive Oil, Pasta",0.4
+"Olive Oil, Rice",0.4
+"Olive Oil, Tomato Sauce",0.3
+"Pasta, Rice",0.3
+"Pasta, Tomato Sauce",0.4
+"Bread, Butter, Cheese",0.3
+"Bread, Cheese, Eggs",0.3
+"Bread, Eggs, Milk",0.3
+"Butter, Cheese, Chicken",0.3
+"Butter, Chicken, Rice",0.3
+"Chicken, Olive Oil, Rice",0.3
+"Eggs, Milk, Tomato Sauce",0.3
+"Milk, Pasta, Tomato Sauce",0.3
+"Olive Oil, Pasta, Rice",0.3
+"Olive Oil, Pasta, Tomato Sauce",0.3

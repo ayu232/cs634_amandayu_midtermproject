@@ -1,0 +1,6 @@
+Retailer,Apriori Itemsets,Apriori Rules,FP-Growth Itemsets,FP-Growth Rules,Brute Force Time (s),Apriori Time (s),FP-Growth Time (s)
+Amazon,310,3092,310,3092,0.135,2.828,0.077
+Costco,310,3092,310,3092,0.027,0.037,0.043
+Walmart,310,3092,310,3092,0.021,0.142,0.11
+Nike,310,3092,310,3092,0.046,0.03,0.387
+BestBuy,310,3092,310,3092,0.025,0.152,0.055

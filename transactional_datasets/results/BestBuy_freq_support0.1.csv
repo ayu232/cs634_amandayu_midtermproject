@@ -1,0 +1,311 @@
+Itemset,Support
+Desktop,0.5
+External Hard Drive,0.5
+Flash Drive,0.5
+Keyboard,0.5
+Laptop,0.5
+Microsoft Office,0.5
+Monitor,0.5
+Mouse,0.5
+Printer,0.5
+Speakers,0.5
+"Desktop, External Hard Drive",0.1
+"Desktop, Flash Drive",0.3
+"Desktop, Keyboard",0.2
+"Desktop, Laptop",0.4
+"Desktop, Microsoft Office",0.2
+"Desktop, Mouse",0.3
+"Desktop, Printer",0.4
+"Desktop, Speakers",0.1
+"External Hard Drive, Flash Drive",0.1
+"External Hard Drive, Keyboard",0.4
+"External Hard Drive, Laptop",0.2
+"External Hard Drive, Microsoft Office",0.2
+"External Hard Drive, Monitor",0.4
+"External Hard Drive, Mouse",0.3
+"External Hard Drive, Speakers",0.3
+"Flash Drive, Keyboard",0.2
+"Flash Drive, Laptop",0.2
+"Flash Drive, Microsoft Office",0.4
+"Flash Drive, Monitor",0.2
+"Flash Drive, Mouse",0.2
+"Flash Drive, Printer",0.4
+"Flash Drive, Speakers",0.3
+"Keyboard, Laptop",0.3
+"Keyboard, Microsoft Office",0.2
+"Keyboard, Monitor",0.3
+"Keyboard, Mouse",0.4
+"Keyboard, Printer",0.1
+"Keyboard, Speakers",0.2
+"Laptop, Microsoft Office",0.2
+"Laptop, Monitor",0.1
+"Laptop, Mouse",0.4
+"Laptop, Printer",0.3
+"Laptop, Speakers",0.2
+"Microsoft Office, Monitor",0.3
+"Microsoft Office, Mouse",0.2
+"Microsoft Office, Printer",0.3
+"Microsoft Office, Speakers",0.4
+"Monitor, Mouse",0.2
+"Monitor, Printer",0.1
+"Monitor, Speakers",0.4
+"Mouse, Printer",0.2
+"Mouse, Speakers",0.2
+"Printer, Speakers",0.2
+"Desktop, External Hard Drive, Keyboard",0.1
+"Desktop, External Hard Drive, Laptop",0.1
+"Desktop, External Hard Drive, Mouse",0.1
+"Desktop, Flash Drive, Keyboard",0.1
+"Desktop, Flash Drive, Laptop",0.2
+"Desktop, Flash Drive, Microsoft Office",0.2
+"Desktop, Flash Drive, Mouse",0.2
+"Desktop, Flash Drive, Printer",0.3
+"Desktop, Flash Drive, Speakers",0.1
+"Desktop, Keyboard, Laptop",0.2
+"Desktop, Keyboard, Mouse",0.2
+"Desktop, Keyboard, Printer",0.1
+"Desktop, Laptop, Microsoft Office",0.1
+"Desktop, Laptop, Mouse",0.3
+"Desktop, Laptop, Printer",0.3
+"Desktop, Laptop, Speakers",0.1
+"Desktop, Microsoft Office, Mouse",0.1
+"Desktop, Microsoft Office, Printer",0.2
+"Desktop, Microsoft Office, Speakers",0.1
+"Desktop, Mouse, Printer",0.2
+"Desktop, Mouse, Speakers",0.1
+"Desktop, Printer, Speakers",0.1
+"External Hard Drive, Flash Drive, Keyboard",0.1
+"External Hard Drive, Flash Drive, Microsoft Office",0.1
+"External Hard Drive, Flash Drive, Monitor",0.1
+"External Hard Drive, Flash Drive, Speakers",0.1
+"External Hard Drive, Keyboard, Laptop",0.2
+"External Hard Drive, Keyboard, Microsoft Office",0.2
+"External Hard Drive, Keyboard, Monitor",0.3
+"External Hard Drive, Keyboard, Mouse",0.3
+"External Hard Drive, Keyboard, Speakers",0.2
+"External Hard Drive, Laptop, Microsoft Office",0.1
+"External Hard Drive, Laptop, Monitor",0.1
+"External Hard Drive, Laptop, Mouse",0.2
+"External Hard Drive, Laptop, Speakers",0.1
+"External Hard Drive, Microsoft Office, Monitor",0.2
+"External Hard Drive, Microsoft Office, Mouse",0.1
+"External Hard Drive, Microsoft Office, Speakers",0.2
+"External Hard Drive, Monitor, Mouse",0.2
+"External Hard Drive, Monitor, Speakers",0.3
+"External Hard Drive, Mouse, Speakers",0.1
+"Flash Drive, Keyboard, Laptop",0.1
+"Flash Drive, Keyboard, Microsoft Office",0.1
+"Flash Drive, Keyboard, Monitor",0.1
+"Flash Drive, Keyboard, Mouse",0.1
+"Flash Drive, Keyboard, Printer",0.1
+"Flash Drive, Keyboard, Speakers",0.1
+"Flash Drive, Laptop, Microsoft Office",0.1
+"Flash Drive, Laptop, Mouse",0.2
+"Flash Drive, Laptop, Printer",0.2
+"Flash Drive, Laptop, Speakers",0.1
+"Flash Drive, Microsoft Office, Monitor",0.2
+"Flash Drive, Microsoft Office, Mouse",0.1
+"Flash Drive, Microsoft Office, Printer",0.3
+"Flash Drive, Microsoft Office, Speakers",0.3
+"Flash Drive, Monitor, Printer",0.1
+"Flash Drive, Monitor, Speakers",0.2
+"Flash Drive, Mouse, Printer",0.2
+"Flash Drive, Mouse, Speakers",0.1
+"Flash Drive, Printer, Speakers",0.2
+"Keyboard, Laptop, Microsoft Office",0.1
+"Keyboard, Laptop, Monitor",0.1
+"Keyboard, Laptop, Mouse",0.3
+"Keyboard, Laptop, Printer",0.1
+"Keyboard, Laptop, Speakers",0.1
+"Keyboard, Microsoft Office, Monitor",0.2
+"Keyboard, Microsoft Office, Mouse",0.1
+"Keyboard, Microsoft Office, Speakers",0.2
+"Keyboard, Monitor, Mouse",0.2
+"Keyboard, Monitor, Speakers",0.2
+"Keyboard, Mouse, Printer",0.1
+"Keyboard, Mouse, Speakers",0.1
+"Laptop, Microsoft Office, Monitor",0.1
+"Laptop, Microsoft Office, Mouse",0.2
+"Laptop, Microsoft Office, Printer",0.1
+"Laptop, Microsoft Office, Speakers",0.2
+"Laptop, Monitor, Mouse",0.1
+"Laptop, Monitor, Speakers",0.1
+"Laptop, Mouse, Printer",0.2
+"Laptop, Mouse, Speakers",0.2
+"Laptop, Printer, Speakers",0.1
+"Microsoft Office, Monitor, Mouse",0.1
+"Microsoft Office, Monitor, Printer",0.1
+"Microsoft Office, Monitor, Speakers",0.3
+"Microsoft Office, Mouse, Printer",0.1
+"Microsoft Office, Mouse, Speakers",0.2
+"Microsoft Office, Printer, Speakers",0.2
+"Monitor, Mouse, Speakers",0.1
+"Monitor, Printer, Speakers",0.1
+"Mouse, Printer, Speakers",0.1
+"Desktop, External Hard Drive, Keyboard, Laptop",0.1
+"Desktop, External Hard Drive, Keyboard, Mouse",0.1
+"Desktop, External Hard Drive, Laptop, Mouse",0.1
+"Desktop, Flash Drive, Keyboard, Laptop",0.1
+"Desktop, Flash Drive, Keyboard, Mouse",0.1
+"Desktop, Flash Drive, Keyboard, Printer",0.1
+"Desktop, Flash Drive, Laptop, Microsoft Office",0.1
+"Desktop, Flash Drive, Laptop, Mouse",0.2
+"Desktop, Flash Drive, Laptop, Printer",0.2
+"Desktop, Flash Drive, Laptop, Speakers",0.1
+"Desktop, Flash Drive, Microsoft Office, Mouse",0.1
+"Desktop, Flash Drive, Microsoft Office, Printer",0.2
+"Desktop, Flash Drive, Microsoft Office, Speakers",0.1
+"Desktop, Flash Drive, Mouse, Printer",0.2
+"Desktop, Flash Drive, Mouse, Speakers",0.1
+"Desktop, Flash Drive, Printer, Speakers",0.1
+"Desktop, Keyboard, Laptop, Mouse",0.2
+"Desktop, Keyboard, Laptop, Printer",0.1
+"Desktop, Keyboard, Mouse, Printer",0.1
+"Desktop, Laptop, Microsoft Office, Mouse",0.1
+"Desktop, Laptop, Microsoft Office, Printer",0.1
+"Desktop, Laptop, Microsoft Office, Speakers",0.1
+"Desktop, Laptop, Mouse, Printer",0.2
+"Desktop, Laptop, Mouse, Speakers",0.1
+"Desktop, Laptop, Printer, Speakers",0.1
+"Desktop, Microsoft Office, Mouse, Printer",0.1
+"Desktop, Microsoft Office, Mouse, Speakers",0.1
+"Desktop, Microsoft Office, Printer, Speakers",0.1
+"Desktop, Mouse, Printer, Speakers",0.1
+"External Hard Drive, Flash Drive, Keyboard, Microsoft Office",0.1
+"External Hard Drive, Flash Drive, Keyboard, Monitor",0.1
+"External Hard Drive, Flash Drive, Keyboard, Speakers",0.1
+"External Hard Drive, Flash Drive, Microsoft Office, Monitor",0.1
+"External Hard Drive, Flash Drive, Microsoft Office, Speakers",0.1
+"External Hard Drive, Flash Drive, Monitor, Speakers",0.1
+"External Hard Drive, Keyboard, Laptop, Microsoft Office",0.1
+"External Hard Drive, Keyboard, Laptop, Monitor",0.1
+"External Hard Drive, Keyboard, Laptop, Mouse",0.2
+"External Hard Drive, Keyboard, Laptop, Speakers",0.1
+"External Hard Drive, Keyboard, Microsoft Office, Monitor",0.2
+"External Hard Drive, Keyboard, Microsoft Office, Mouse",0.1
+"External Hard Drive, Keyboard, Microsoft Office, Speakers",0.2
+"External Hard Drive, Keyboard, Monitor, Mouse",0.2
+"External Hard Drive, Keyboard, Monitor, Speakers",0.2
+"External Hard Drive, Keyboard, Mouse, Speakers",0.1
+"External Hard Drive, Laptop, Microsoft Office, Monitor",0.1
+"External Hard Drive, Laptop, Microsoft Office, Mouse",0.1
+"External Hard Drive, Laptop, Microsoft Office, Speakers",0.1
+"External Hard Drive, Laptop, Monitor, Mouse",0.1
+"External Hard Drive, Laptop, Monitor, Speakers",0.1
+"External Hard Drive, Laptop, Mouse, Speakers",0.1
+"External Hard Drive, Microsoft Office, Monitor, Mouse",0.1
+"External Hard Drive, Microsoft Office, Monitor, Speakers",0.2
+"External Hard Drive, Microsoft Office, Mouse, Speakers",0.1
+"External Hard Drive, Monitor, Mouse, Speakers",0.1
+"Flash Drive, Keyboard, Laptop, Mouse",0.1
+"Flash Drive, Keyboard, Laptop, Printer",0.1
+"Flash Drive, Keyboard, Microsoft Office, Monitor",0.1
+"Flash Drive, Keyboard, Microsoft Office, Speakers",0.1
+"Flash Drive, Keyboard, Monitor, Speakers",0.1
+"Flash Drive, Keyboard, Mouse, Printer",0.1
+"Flash Drive, Laptop, Microsoft Office, Mouse",0.1
+"Flash Drive, Laptop, Microsoft Office, Printer",0.1
+"Flash Drive, Laptop, Microsoft Office, Speakers",0.1
+"Flash Drive, Laptop, Mouse, Printer",0.2
+"Flash Drive, Laptop, Mouse, Speakers",0.1
+"Flash Drive, Laptop, Printer, Speakers",0.1
+"Flash Drive, Microsoft Office, Monitor, Printer",0.1
+"Flash Drive, Microsoft Office, Monitor, Speakers",0.2
+"Flash Drive, Microsoft Office, Mouse, Printer",0.1
+"Flash Drive, Microsoft Office, Mouse, Speakers",0.1
+"Flash Drive, Microsoft Office, Printer, Speakers",0.2
+"Flash Drive, Monitor, Printer, Speakers",0.1
+"Flash Drive, Mouse, Printer, Speakers",0.1
+"Keyboard, Laptop, Microsoft Office, Monitor",0.1
+"Keyboard, Laptop, Microsoft Office, Mouse",0.1
+"Keyboard, Laptop, Microsoft Office, Speakers",0.1
+"Keyboard, Laptop, Monitor, Mouse",0.1
+"Keyboard, Laptop, Monitor, Speakers",0.1
+"Keyboard, Laptop, Mouse, Printer",0.1
+"Keyboard, Laptop, Mouse, Speakers",0.1
+"Keyboard, Microsoft Office, Monitor, Mouse",0.1
+"Keyboard, Microsoft Office, Monitor, Speakers",0.2
+"Keyboard, Microsoft Office, Mouse, Speakers",0.1
+"Keyboard, Monitor, Mouse, Speakers",0.1
+"Laptop, Microsoft Office, Monitor, Mouse",0.1
+"Laptop, Microsoft Office, Monitor, Speakers",0.1
+"Laptop, Microsoft Office, Mouse, Printer",0.1
+"Laptop, Microsoft Office, Mouse, Speakers",0.2
+"Laptop, Microsoft Office, Printer, Speakers",0.1
+"Laptop, Monitor, Mouse, Speakers",0.1
+"Laptop, Mouse, Printer, Speakers",0.1
+"Microsoft Office, Monitor, Mouse, Speakers",0.1
+"Microsoft Office, Monitor, Printer, Speakers",0.1
+"Microsoft Office, Mouse, Printer, Speakers",0.1
+"Desktop, External Hard Drive, Keyboard, Laptop, Mouse",0.1
+"Desktop, Flash Drive, Keyboard, Laptop, Mouse",0.1
+"Desktop, Flash Drive, Keyboard, Laptop, Printer",0.1
+"Desktop, Flash Drive, Keyboard, Mouse, Printer",0.1
+"Desktop, Flash Drive, Laptop, Microsoft Office, Mouse",0.1
+"Desktop, Flash Drive, Laptop, Microsoft Office, Printer",0.1
+"Desktop, Flash Drive, Laptop, Microsoft Office, Speakers",0.1
+"Desktop, Flash Drive, Laptop, Mouse, Printer",0.2
+"Desktop, Flash Drive, Laptop, Mouse, Speakers",0.1
+"Desktop, Flash Drive, Laptop, Printer, Speakers",0.1
+"Desktop, Flash Drive, Microsoft Office, Mouse, Printer",0.1
+"Desktop, Flash Drive, Microsoft Office, Mouse, Speakers",0.1
+"Desktop, Flash Drive, Microsoft Office, Printer, Speakers",0.1
+"Desktop, Flash Drive, Mouse, Printer, Speakers",0.1
+"Desktop, Keyboard, Laptop, Mouse, Printer",0.1
+"Desktop, Laptop, Microsoft Office, Mouse, Printer",0.1
+"Desktop, Laptop, Microsoft Office, Mouse, Speakers",0.1
+"Desktop, Laptop, Microsoft Office, Printer, Speakers",0.1
+"Desktop, Laptop, Mouse, Printer, Speakers",0.1
+"Desktop, Microsoft Office, Mouse, Printer, Speakers",0.1
+"External Hard Drive, Flash Drive, Keyboard, Microsoft Office, Monitor",0.1
+"External Hard Drive, Flash Drive, Keyboard, Microsoft Office, Speakers",0.1
+"External Hard Drive, Flash Drive, Keyboard, Monitor, Speakers",0.1
+"External Hard Drive, Flash Drive, Microsoft Office, Monitor, Speakers",0.1
+"External Hard Drive, Keyboard, Laptop, Microsoft Office, Monitor",0.1
+"External Hard Drive, Keyboard, Laptop, Microsoft Office, Mouse",0.1
+"External Hard Drive, Keyboard, Laptop, Microsoft Office, Speakers",0.1
+"External Hard Drive, Keyboard, Laptop, Monitor, Mouse",0.1
+"External Hard Drive, Keyboard, Laptop, Monitor, Speakers",0.1
+"External Hard Drive, Keyboard, Laptop, Mouse, Speakers",0.1
+"External Hard Drive, Keyboard, Microsoft Office, Monitor, Mouse",0.1
+"External Hard Drive, Keyboard, Microsoft Office, Monitor, Speakers",0.2
+"External Hard Drive, Keyboard, Microsoft Office, Mouse, Speakers",0.1
+"External Hard Drive, Keyboard, Monitor, Mouse, Speakers",0.1
+"External Hard Drive, Laptop, Microsoft Office, Monitor, Mouse",0.1
+"External Hard Drive, Laptop, Microsoft Office, Monitor, Speakers",0.1
+"External Hard Drive, Laptop, Microsoft Office, Mouse, Speakers",0.1
+"External Hard Drive, Laptop, Monitor, Mouse, Speakers",0.1
+"External Hard Drive, Microsoft Office, Monitor, Mouse, Speakers",0.1
+"Flash Drive, Keyboard, Laptop, Mouse, Printer",0.1
+"Flash Drive, Keyboard, Microsoft Office, Monitor, Speakers",0.1
+"Flash Drive, Laptop, Microsoft Office, Mouse, Printer",0.1
+"Flash Drive, Laptop, Microsoft Office, Mouse, Speakers",0.1
+"Flash Drive, Laptop, Microsoft Office, Printer, Speakers",0.1
+"Flash Drive, Laptop, Mouse, Printer, Speakers",0.1
+"Flash Drive, Microsoft Office, Monitor, Printer, Speakers",0.1
+"Flash Drive, Microsoft Office, Mouse, Printer, Speakers",0.1
+"Keyboard, Laptop, Microsoft Office, Monitor, Mouse",0.1
+"Keyboard, Laptop, Microsoft Office, Monitor, Speakers",0.1
+"Keyboard, Laptop, Microsoft Office, Mouse, Speakers",0.1
+"Keyboard, Laptop, Monitor, Mouse, Speakers",0.1
+"Keyboard, Microsoft Office, Monitor, Mouse, Speakers",0.1
+"Laptop, Microsoft Office, Monitor, Mouse, Speakers",0.1
+"Laptop, Microsoft Office, Mouse, Printer, Speakers",0.1
+"Desktop, Flash Drive, Keyboard, Laptop, Mouse, Printer",0.1
+"Desktop, Flash Drive, Laptop, Microsoft Office, Mouse, Printer",0.1
+"Desktop, Flash Drive, Laptop, Microsoft Office, Mouse, Speakers",0.1
+"Desktop, Flash Drive, Laptop, Microsoft Office, Printer, Speakers",0.1
+"Desktop, Flash Drive, Laptop, Mouse, Printer, Speakers",0.1
+"Desktop, Flash Drive, Microsoft Office, Mouse, Printer, Speakers",0.1
+"Desktop, Laptop, Microsoft Office, Mouse, Printer, Speakers",0.1
+"External Hard Drive, Flash Drive, Keyboard, Microsoft Office, Monitor, Speakers",0.1
+"External Hard Drive, Keyboard, Laptop, Microsoft Office, Monitor, Mouse",0.1
+"External Hard Drive, Keyboard, Laptop, Microsoft Office, Monitor, Speakers",0.1
+"External Hard Drive, Keyboard, Laptop, Microsoft Office, Mouse, Speakers",0.1
+"External Hard Drive, Keyboard, Laptop, Monitor, Mouse, Speakers",0.1
+"External Hard Drive, Keyboard, Microsoft Office, Monitor, Mouse, Speakers",0.1
+"External Hard Drive, Laptop, Microsoft Office, Monitor, Mouse, Speakers",0.1
+"Flash Drive, Laptop, Microsoft Office, Mouse, Printer, Speakers",0.1
+"Keyboard, Laptop, Microsoft Office, Monitor, Mouse, Speakers",0.1
+"Desktop, Flash Drive, Laptop, Microsoft Office, Mouse, Printer, Speakers",0.1
+"External Hard Drive, Keyboard, Laptop, Microsoft Office, Monitor, Mouse, Speakers",0.1

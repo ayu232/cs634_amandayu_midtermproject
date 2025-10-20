@@ -1,0 +1,101 @@
+Antecedent,Consequent,Support,Confidence
+Bread,Butter,0.3,0.6
+Butter,Bread,0.3,0.6
+Bread,Cheese,0.4,0.8
+Cheese,Bread,0.4,0.8
+Bread,Eggs,0.4,0.8
+Eggs,Bread,0.4,0.8
+Bread,Milk,0.3,0.6
+Milk,Bread,0.3,0.6
+Cheese,Butter,0.4,0.8
+Butter,Cheese,0.4,0.8
+Chicken,Butter,0.4,0.8
+Butter,Chicken,0.4,0.8
+Rice,Butter,0.3,0.6
+Butter,Rice,0.3,0.6
+Chicken,Cheese,0.3,0.6
+Cheese,Chicken,0.3,0.6
+Cheese,Eggs,0.3,0.6
+Eggs,Cheese,0.3,0.6
+Chicken,Olive Oil,0.3,0.6
+Olive Oil,Chicken,0.3,0.6
+Chicken,Rice,0.4,0.8
+Rice,Chicken,0.4,0.8
+Milk,Eggs,0.4,0.8
+Eggs,Milk,0.4,0.8
+Eggs,Tomato Sauce,0.3,0.6
+Tomato Sauce,Eggs,0.3,0.6
+Pasta,Milk,0.3,0.6
+Milk,Pasta,0.3,0.6
+Milk,Tomato Sauce,0.4,0.8
+Tomato Sauce,Milk,0.4,0.8
+Olive Oil,Pasta,0.4,0.8
+Pasta,Olive Oil,0.4,0.8
+Olive Oil,Rice,0.4,0.8
+Rice,Olive Oil,0.4,0.8
+Olive Oil,Tomato Sauce,0.3,0.6
+Tomato Sauce,Olive Oil,0.3,0.6
+Pasta,Rice,0.3,0.6
+Rice,Pasta,0.3,0.6
+Pasta,Tomato Sauce,0.4,0.8
+Tomato Sauce,Pasta,0.4,0.8
+Bread,"Butter, Cheese",0.3,0.6
+Cheese,"Bread, Butter",0.3,0.6
+Butter,"Bread, Cheese",0.3,0.6
+"Bread, Cheese",Butter,0.3,0.75
+"Bread, Butter",Cheese,0.3,1.0
+"Butter, Cheese",Bread,0.3,0.75
+Bread,"Cheese, Eggs",0.3,0.6
+Cheese,"Bread, Eggs",0.3,0.6
+Eggs,"Bread, Cheese",0.3,0.6
+"Bread, Cheese",Eggs,0.3,0.75
+"Bread, Eggs",Cheese,0.3,0.75
+"Cheese, Eggs",Bread,0.3,1.0
+Bread,"Eggs, Milk",0.3,0.6
+Milk,"Bread, Eggs",0.3,0.6
+Eggs,"Bread, Milk",0.3,0.6
+"Bread, Milk",Eggs,0.3,1.0
+"Bread, Eggs",Milk,0.3,0.75
+"Eggs, Milk",Bread,0.3,0.75
+Chicken,"Butter, Cheese",0.3,0.6
+Cheese,"Butter, Chicken",0.3,0.6
+Butter,"Cheese, Chicken",0.3,0.6
+"Cheese, Chicken",Butter,0.3,1.0
+"Butter, Chicken",Cheese,0.3,0.75
+"Butter, Cheese",Chicken,0.3,0.75
+Chicken,"Butter, Rice",0.3,0.6
+Rice,"Butter, Chicken",0.3,0.6
+Butter,"Chicken, Rice",0.3,0.6
+"Chicken, Rice",Butter,0.3,0.75
+"Butter, Chicken",Rice,0.3,0.75
+"Butter, Rice",Chicken,0.3,1.0
+Chicken,"Olive Oil, Rice",0.3,0.6
+Olive Oil,"Chicken, Rice",0.3,0.6
+Rice,"Chicken, Olive Oil",0.3,0.6
+"Chicken, Olive Oil",Rice,0.3,1.0
+"Chicken, Rice",Olive Oil,0.3,0.75
+"Olive Oil, Rice",Chicken,0.3,0.75
+Milk,"Eggs, Tomato Sauce",0.3,0.6
+Eggs,"Milk, Tomato Sauce",0.3,0.6
+Tomato Sauce,"Eggs, Milk",0.3,0.6
+"Eggs, Milk",Tomato Sauce,0.3,0.75
+"Milk, Tomato Sauce",Eggs,0.3,0.75
+"Eggs, Tomato Sauce",Milk,0.3,1.0
+Pasta,"Milk, Tomato Sauce",0.3,0.6
+Milk,"Pasta, Tomato Sauce",0.3,0.6
+Tomato Sauce,"Milk, Pasta",0.3,0.6
+"Milk, Pasta",Tomato Sauce,0.3,1.0
+"Pasta, Tomato Sauce",Milk,0.3,0.75
+"Milk, Tomato Sauce",Pasta,0.3,0.75
+Olive Oil,"Pasta, Rice",0.3,0.6
+Pasta,"Olive Oil, Rice",0.3,0.6
+Rice,"Olive Oil, Pasta",0.3,0.6
+"Olive Oil, Pasta",Rice,0.3,0.75
+"Olive Oil, Rice",Pasta,0.3,0.75
+"Pasta, Rice",Olive Oil,0.3,1.0
+Olive Oil,"Pasta, Tomato Sauce",0.3,0.6
+Pasta,"Olive Oil, Tomato Sauce",0.3,0.6
+Tomato Sauce,"Olive Oil, Pasta",0.3,0.6
+"Olive Oil, Pasta",Tomato Sauce,0.3,0.75
+"Olive Oil, Tomato Sauce",Pasta,0.3,1.0
+"Pasta, Tomato Sauce",Olive Oil,0.3,0.75

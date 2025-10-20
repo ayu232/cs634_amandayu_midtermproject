@@ -1,0 +1,21 @@
+support,itemsets
+0.5,frozenset({'Milk'})
+0.5,frozenset({'Eggs'})
+0.5,frozenset({'Bread'})
+0.5,frozenset({'Cheese'})
+0.5,frozenset({'Butter'})
+0.5,frozenset({'Rice'})
+0.5,frozenset({'Chicken'})
+0.5,frozenset({'Pasta'})
+0.5,frozenset({'Olive Oil'})
+0.5,frozenset({'Tomato Sauce'})
+0.4,"frozenset({'Milk', 'Tomato Sauce'})"
+0.4,"frozenset({'Milk', 'Eggs'})"
+0.4,"frozenset({'Eggs', 'Bread'})"
+0.4,"frozenset({'Cheese', 'Bread'})"
+0.4,"frozenset({'Cheese', 'Butter'})"
+0.4,"frozenset({'Chicken', 'Butter'})"
+0.4,"frozenset({'Chicken', 'Rice'})"
+0.4,"frozenset({'Tomato Sauce', 'Pasta'})"
+0.4,"frozenset({'Pasta', 'Olive Oil'})"
+0.4,"frozenset({'Olive Oil', 'Rice'})"

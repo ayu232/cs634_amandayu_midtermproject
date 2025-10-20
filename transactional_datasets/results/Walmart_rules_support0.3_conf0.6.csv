@@ -1,0 +1,101 @@
+Antecedent,Consequent,Support,Confidence
+Conditioner,Laundry Detergent,0.3,0.6
+Laundry Detergent,Conditioner,0.3,0.6
+Conditioner,Shampoo,0.4,0.8
+Shampoo,Conditioner,0.4,0.8
+Conditioner,Soap,0.4,0.8
+Soap,Conditioner,0.4,0.8
+Conditioner,Toothbrush,0.3,0.6
+Toothbrush,Conditioner,0.3,0.6
+Laundry Detergent,Dish Soap,0.4,0.8
+Dish Soap,Laundry Detergent,0.4,0.8
+Paper Towels,Dish Soap,0.4,0.8
+Dish Soap,Paper Towels,0.4,0.8
+Soap,Dish Soap,0.3,0.6
+Dish Soap,Soap,0.3,0.6
+Tissues,Dish Soap,0.3,0.6
+Dish Soap,Tissues,0.3,0.6
+Paper Towels,Hand Sanitizer,0.3,0.6
+Hand Sanitizer,Paper Towels,0.3,0.6
+Tissues,Hand Sanitizer,0.4,0.8
+Hand Sanitizer,Tissues,0.4,0.8
+Toothbrush,Hand Sanitizer,0.3,0.6
+Hand Sanitizer,Toothbrush,0.3,0.6
+Hand Sanitizer,Toothpaste,0.4,0.8
+Toothpaste,Hand Sanitizer,0.4,0.8
+Paper Towels,Laundry Detergent,0.3,0.6
+Laundry Detergent,Paper Towels,0.3,0.6
+Soap,Laundry Detergent,0.4,0.8
+Laundry Detergent,Soap,0.4,0.8
+Paper Towels,Tissues,0.4,0.8
+Tissues,Paper Towels,0.4,0.8
+Soap,Shampoo,0.3,0.6
+Shampoo,Soap,0.3,0.6
+Toothbrush,Shampoo,0.4,0.8
+Shampoo,Toothbrush,0.4,0.8
+Toothpaste,Shampoo,0.3,0.6
+Shampoo,Toothpaste,0.3,0.6
+Tissues,Toothpaste,0.3,0.6
+Toothpaste,Tissues,0.3,0.6
+Toothbrush,Toothpaste,0.4,0.8
+Toothpaste,Toothbrush,0.4,0.8
+Conditioner,"Laundry Detergent, Soap",0.3,0.6
+Soap,"Conditioner, Laundry Detergent",0.3,0.6
+Laundry Detergent,"Conditioner, Soap",0.3,0.6
+"Conditioner, Soap",Laundry Detergent,0.3,0.75
+"Conditioner, Laundry Detergent",Soap,0.3,1.0
+"Laundry Detergent, Soap",Conditioner,0.3,0.75
+Conditioner,"Shampoo, Soap",0.3,0.6
+Soap,"Conditioner, Shampoo",0.3,0.6
+Shampoo,"Conditioner, Soap",0.3,0.6
+"Conditioner, Soap",Shampoo,0.3,0.75
+"Conditioner, Shampoo",Soap,0.3,0.75
+"Shampoo, Soap",Conditioner,0.3,1.0
+Conditioner,"Shampoo, Toothbrush",0.3,0.6
+Toothbrush,"Conditioner, Shampoo",0.3,0.6
+Shampoo,"Conditioner, Toothbrush",0.3,0.6
+"Conditioner, Toothbrush",Shampoo,0.3,1.0
+"Conditioner, Shampoo",Toothbrush,0.3,0.75
+"Shampoo, Toothbrush",Conditioner,0.3,0.75
+Paper Towels,"Dish Soap, Laundry Detergent",0.3,0.6
+Laundry Detergent,"Dish Soap, Paper Towels",0.3,0.6
+Dish Soap,"Laundry Detergent, Paper Towels",0.3,0.6
+"Laundry Detergent, Paper Towels",Dish Soap,0.3,1.0
+"Dish Soap, Paper Towels",Laundry Detergent,0.3,0.75
+"Dish Soap, Laundry Detergent",Paper Towels,0.3,0.75
+Soap,"Dish Soap, Laundry Detergent",0.3,0.6
+Laundry Detergent,"Dish Soap, Soap",0.3,0.6
+Dish Soap,"Laundry Detergent, Soap",0.3,0.6
+"Laundry Detergent, Soap",Dish Soap,0.3,0.75
+"Dish Soap, Soap",Laundry Detergent,0.3,1.0
+"Dish Soap, Laundry Detergent",Soap,0.3,0.75
+Paper Towels,"Dish Soap, Tissues",0.3,0.6
+Tissues,"Dish Soap, Paper Towels",0.3,0.6
+Dish Soap,"Paper Towels, Tissues",0.3,0.6
+"Paper Towels, Tissues",Dish Soap,0.3,0.75
+"Dish Soap, Paper Towels",Tissues,0.3,0.75
+"Dish Soap, Tissues",Paper Towels,0.3,1.0
+Paper Towels,"Hand Sanitizer, Tissues",0.3,0.6
+Hand Sanitizer,"Paper Towels, Tissues",0.3,0.6
+Tissues,"Hand Sanitizer, Paper Towels",0.3,0.6
+"Hand Sanitizer, Paper Towels",Tissues,0.3,1.0
+"Paper Towels, Tissues",Hand Sanitizer,0.3,0.75
+"Hand Sanitizer, Tissues",Paper Towels,0.3,0.75
+Tissues,"Hand Sanitizer, Toothpaste",0.3,0.6
+Hand Sanitizer,"Tissues, Toothpaste",0.3,0.6
+Toothpaste,"Hand Sanitizer, Tissues",0.3,0.6
+"Hand Sanitizer, Tissues",Toothpaste,0.3,0.75
+"Tissues, Toothpaste",Hand Sanitizer,0.3,1.0
+"Hand Sanitizer, Toothpaste",Tissues,0.3,0.75
+Toothbrush,"Hand Sanitizer, Toothpaste",0.3,0.6
+Hand Sanitizer,"Toothbrush, Toothpaste",0.3,0.6
+Toothpaste,"Hand Sanitizer, Toothbrush",0.3,0.6
+"Hand Sanitizer, Toothbrush",Toothpaste,0.3,1.0
+"Toothbrush, Toothpaste",Hand Sanitizer,0.3,0.75
+"Hand Sanitizer, Toothpaste",Toothbrush,0.3,0.75
+Toothbrush,"Shampoo, Toothpaste",0.3,0.6
+Toothpaste,"Shampoo, Toothbrush",0.3,0.6
+Shampoo,"Toothbrush, Toothpaste",0.3,0.6
+"Toothbrush, Toothpaste",Shampoo,0.3,0.75
+"Shampoo, Toothbrush",Toothpaste,0.3,0.75
+"Shampoo, Toothpaste",Toothbrush,0.3,1.0

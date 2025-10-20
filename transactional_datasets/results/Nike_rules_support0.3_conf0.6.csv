@@ -1,0 +1,101 @@
+Antecedent,Consequent,Support,Confidence
+Cap,Running Shoes,0.4,0.8
+Running Shoes,Cap,0.4,0.8
+Cap,Shorts,0.3,0.6
+Shorts,Cap,0.3,0.6
+Cap,Soccer Shoes,0.3,0.6
+Soccer Shoes,Cap,0.3,0.6
+Cap,Training Shirt,0.4,0.8
+Training Shirt,Cap,0.4,0.8
+Hoodie,Gloves,0.3,0.6
+Gloves,Hoodie,0.3,0.6
+Shorts,Gloves,0.3,0.6
+Gloves,Shorts,0.3,0.6
+Sweatshirt,Gloves,0.4,0.8
+Gloves,Sweatshirt,0.4,0.8
+Gloves,Track Pants,0.4,0.8
+Track Pants,Gloves,0.4,0.8
+Hoodie,Soccer Shoes,0.3,0.6
+Soccer Shoes,Hoodie,0.3,0.6
+Hoodie,Socks,0.4,0.8
+Socks,Hoodie,0.4,0.8
+Hoodie,Track Pants,0.4,0.8
+Track Pants,Hoodie,0.4,0.8
+Soccer Shoes,Running Shoes,0.4,0.8
+Running Shoes,Soccer Shoes,0.4,0.8
+Running Shoes,Socks,0.3,0.6
+Socks,Running Shoes,0.3,0.6
+Training Shirt,Running Shoes,0.3,0.6
+Running Shoes,Training Shirt,0.3,0.6
+Sweatshirt,Shorts,0.4,0.8
+Shorts,Sweatshirt,0.4,0.8
+Training Shirt,Shorts,0.4,0.8
+Shorts,Training Shirt,0.4,0.8
+Soccer Shoes,Socks,0.4,0.8
+Socks,Soccer Shoes,0.4,0.8
+Track Pants,Socks,0.3,0.6
+Socks,Track Pants,0.3,0.6
+Sweatshirt,Track Pants,0.3,0.6
+Track Pants,Sweatshirt,0.3,0.6
+Sweatshirt,Training Shirt,0.3,0.6
+Training Shirt,Sweatshirt,0.3,0.6
+Cap,"Running Shoes, Soccer Shoes",0.3,0.6
+Soccer Shoes,"Cap, Running Shoes",0.3,0.6
+Running Shoes,"Cap, Soccer Shoes",0.3,0.6
+"Cap, Soccer Shoes",Running Shoes,0.3,1.0
+"Cap, Running Shoes",Soccer Shoes,0.3,0.75
+"Running Shoes, Soccer Shoes",Cap,0.3,0.75
+Cap,"Running Shoes, Training Shirt",0.3,0.6
+Training Shirt,"Cap, Running Shoes",0.3,0.6
+Running Shoes,"Cap, Training Shirt",0.3,0.6
+"Cap, Training Shirt",Running Shoes,0.3,0.75
+"Cap, Running Shoes",Training Shirt,0.3,0.75
+"Running Shoes, Training Shirt",Cap,0.3,1.0
+Cap,"Shorts, Training Shirt",0.3,0.6
+Training Shirt,"Cap, Shorts",0.3,0.6
+Shorts,"Cap, Training Shirt",0.3,0.6
+"Cap, Training Shirt",Shorts,0.3,0.75
+"Cap, Shorts",Training Shirt,0.3,1.0
+"Shorts, Training Shirt",Cap,0.3,0.75
+Hoodie,"Gloves, Track Pants",0.3,0.6
+Gloves,"Hoodie, Track Pants",0.3,0.6
+Track Pants,"Gloves, Hoodie",0.3,0.6
+"Gloves, Hoodie",Track Pants,0.3,1.0
+"Hoodie, Track Pants",Gloves,0.3,0.75
+"Gloves, Track Pants",Hoodie,0.3,0.75
+Sweatshirt,"Gloves, Shorts",0.3,0.6
+Shorts,"Gloves, Sweatshirt",0.3,0.6
+Gloves,"Shorts, Sweatshirt",0.3,0.6
+"Shorts, Sweatshirt",Gloves,0.3,0.75
+"Gloves, Sweatshirt",Shorts,0.3,0.75
+"Gloves, Shorts",Sweatshirt,0.3,1.0
+Sweatshirt,"Gloves, Track Pants",0.3,0.6
+Gloves,"Sweatshirt, Track Pants",0.3,0.6
+Track Pants,"Gloves, Sweatshirt",0.3,0.6
+"Gloves, Sweatshirt",Track Pants,0.3,0.75
+"Sweatshirt, Track Pants",Gloves,0.3,1.0
+"Gloves, Track Pants",Sweatshirt,0.3,0.75
+Hoodie,"Soccer Shoes, Socks",0.3,0.6
+Soccer Shoes,"Hoodie, Socks",0.3,0.6
+Socks,"Hoodie, Soccer Shoes",0.3,0.6
+"Hoodie, Soccer Shoes",Socks,0.3,1.0
+"Hoodie, Socks",Soccer Shoes,0.3,0.75
+"Soccer Shoes, Socks",Hoodie,0.3,0.75
+Hoodie,"Socks, Track Pants",0.3,0.6
+Track Pants,"Hoodie, Socks",0.3,0.6
+Socks,"Hoodie, Track Pants",0.3,0.6
+"Hoodie, Track Pants",Socks,0.3,0.75
+"Hoodie, Socks",Track Pants,0.3,0.75
+"Socks, Track Pants",Hoodie,0.3,1.0
+Soccer Shoes,"Running Shoes, Socks",0.3,0.6
+Running Shoes,"Soccer Shoes, Socks",0.3,0.6
+Socks,"Running Shoes, Soccer Shoes",0.3,0.6
+"Running Shoes, Soccer Shoes",Socks,0.3,0.75
+"Soccer Shoes, Socks",Running Shoes,0.3,0.75
+"Running Shoes, Socks",Soccer Shoes,0.3,1.0
+Sweatshirt,"Shorts, Training Shirt",0.3,0.6
+Training Shirt,"Shorts, Sweatshirt",0.3,0.6
+Shorts,"Sweatshirt, Training Shirt",0.3,0.6
+"Sweatshirt, Training Shirt",Shorts,0.3,1.0
+"Shorts, Sweatshirt",Training Shirt,0.3,0.75
+"Shorts, Training Shirt",Sweatshirt,0.3,0.75
